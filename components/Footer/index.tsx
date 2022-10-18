@@ -73,7 +73,6 @@ const SocialWrapper = styled.div(() => css({
 
 const Footer = () => (
     <>
-        <PressCoverage />
         <FooterContainer>
             <FlexWrap>
                 <FooterTitle>
@@ -82,59 +81,45 @@ const Footer = () => (
                     }}>
                         <img height="60px" width="60px" src='https://static.killedbygoogle.com/com/tombstone-alt.svg' alt="Tombstone" />
                     </div>
-                    <Title>Killed by Google</Title>
+                    <Title>Killed by the Reality</Title>
                 </FooterTitle>
                 <div>
                     <p>
-                        Killed by Google is the Google graveyard; a free and open source
-                        list of discontinued Google services, products, devices, and apps.
-                        We aim to be a source of factual information about the history
-                        surrounding Google&apos;s dead projects.
-          </p>
+                        Killed by the reality es el cementerio de proyectos del estado; una fuente libre y abierta
+                        lista de servicios, productos, proyectos y aplicaciones financiados con dinero público descontinuados.
+                        Nuestro objetivo es ser una fuente de información fáctica sobre la historia
+                        en torno a los proyectos muertos de la administracón pública española.
+                    
+                        Este proyecto está basado en el proyecto "killed by Google"
+                    </p>
                     <p>
                         <a
-                            href="https://github.com/codyogden/killedbygoogle/graphs/contributors"
+                            href="https://docs.google.com/spreadsheets/d/1nP5QbObFaM59Jn_HoBVVZVNFoNY1LHR9e5oBBdW_m88/edit#gid=0"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            Contributors
+                            Los datos se extraen de la base de datos de Jaime Gomez Obregón
             </a>
-            &nbsp;from around the world help compile, research, and maintain the
-            information about dying and dead Google products. You can join the
-            discussion on&nbsp;
-            <a href="https://github.com/codyogden/killedbygoogle">GitHub</a>. A project
-            by&nbsp;
+            &nbsp;, información pública que cualquiera puede visitar. El código fuente está disponible en &nbsp;
             <a
-                            href="https://codyogden.com"
+                            href="https://github.com/sergiocasero/killedbytherealit"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            Cody Ogden
+                            GitHub
             </a>
             .
           </p>
-                    <p>
-                        Press inquiries and other assorted death threats?
-            <br />
-            Throw a&nbsp;
-            <a href="mailto:knife@killedbygoogle.com">
-                            knife@killedbygoogle.com
-            </a>
-            .
-          </p>
-                </div>
+        </div>
                 <CopyNotice>
                     <a href="https://github.com/codyogden/killedbygoogle/blob/main/LICENSE">
                         &copy; 2022 Cody Ogden.
           </a>
           &nbsp;-&nbsp;
-          <a href="https://analytics.kbg.rip" target="_blank" rel="noopener noreferrer">
-                        Analytics
-          </a>
                 </CopyNotice>
                 <SocialWrapper>
                     <SocialLink
-                        url="https://github.com/codyogden/killedbygoogle"
+                        url="https://github.com/sergiocasero/killedbythereality"
                         altText="GitHub"
                         imgSrc='https://static.killedbygoogle.com/com/github.svg'
                     />
