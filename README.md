@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://static.killedbygoogle.com/com/tombstone.png" alt="tombstone" style="height: 80px; width: 80px; padding: 0 20px;">
-  <h1>Killed by Google</h1>
-  <p>A tribute and log of beloved products and services killed by Google.</p>
+  <h1>Killed by the Reality</h1>
+  <p>A tribute and log of beloved products and services killed by Reality in Spain.</p>
+  <p>This is a fork of the "killed by google" project</p>
 </div>
 
 <div align="center">
