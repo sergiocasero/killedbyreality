@@ -11,7 +11,7 @@ type Props = {
 
 const Filter: React.FC<Props> = ({ items, filterHandler }) => {
 
-  const getCount = (type: string) => items.filter(item => item.type === type).length;
+  const getCount = (type: string) => items.filter(item => item.technology === type).length;
 
   type Option = {
     value: string;

@@ -4,7 +4,7 @@ import Script from 'next/script';
 import slugify from 'slugify';
 
 // Data
-import graveyard from '../graveyard.json';
+import graveyard from '../spain_graveyard.json';
 
 // Components
 import Header from '../components/Header';
@@ -66,7 +66,7 @@ export const getStaticProps: GetStaticProps = async (_context) => {
         slug: slugify(item.name, {
             lower: true,
         })
-    })).sort((a, b) => (new Date(b.dateClose)).getTime() - (new Date(a.dateClose)).getTime());
+    }));
 
     return {
         props: {

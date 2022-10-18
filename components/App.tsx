@@ -18,7 +18,7 @@ const App: FC<{ items: ProductWithSlug[] }> = ({ items }) => {
     useEffect(() => {
         const regexp = new RegExp(searchTerm.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i');
         const list = activeFilter === 'all' ? items :
-            items.filter(el => el.type === activeFilter);
+            items.filter(el => el.technology === activeFilter);
         // If search goes empty
         if (searchTerm === '') {
             // Reset the list.
@@ -27,7 +27,7 @@ const App: FC<{ items: ProductWithSlug[] }> = ({ items }) => {
             // Otherwise filter the list by name and description
             updateListItems(list.filter(el =>
                 regexp.test(el.name.toLowerCase()) ||
-                regexp.test(el.description.toLowerCase())
+                regexp.test(el.technology.toLowerCase())
             ));
         }
     }, [searchTerm, activeFilter, items]);

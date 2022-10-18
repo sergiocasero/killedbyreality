@@ -90,7 +90,7 @@ const Footer = () => (
                         Nuestro objetivo es ser una fuente de información fáctica sobre la historia
                         en torno a los proyectos muertos de la administracón pública española.
                     
-                        Este proyecto está basado en el proyecto "killed by Google"
+                        Este proyecto está basado en el proyecto &quot;killed by Google&quot;
                     </p>
                     <p>
                         <a

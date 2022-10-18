@@ -6,11 +6,13 @@ export enum ProductType {
 
 export interface Product {
   name: string;
-  description: string;
-  dateClose: string;
-  dateOpen: string;
-  link: string;
-  type: ProductType;
+  url: string;
+  location: string;
+  promoter: string;
+  release_date: string;
+  status: string;
+  technology: string;
+  budget: string;
 }
 
 export type ProductWithSlug = Product & { slug: string };
