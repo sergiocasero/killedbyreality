@@ -1,1001 +1,1076 @@
 [
-    {
+  {
       "name": "SiComercio",
       "url": "sicomercio.es",
       "location": "Lugo",
-      "promoter": "Federación de Comercio de Lugo + Diputación Provincial + Concello",
-      "release_date": "abril de 2019",
+      "promoter": "Federaci\u00f3n de Comercio de Lugo + Diputaci\u00f3n Provincial + Concello",
+      "release_date": "201904",
       "status": "Todos los productos (141) pertenecen a un mismo comerciante (Librephone), que pertenece a los propios desarrolladores de la plataforma.",
       "technology": "zoonmarket by enxeit",
       "budget": "",
       "references": [
-        "https://www.elprogreso.es/gl/articulo/lugo/comercio-lugo-estrena-nueva-plataforma-gestion-venta-online/201904021246141368462.html"
-      ]
-    },
-    {
+          "https://www.elprogreso.es/gl/articulo/lugo/comercio-lugo-estrena-nueva-plataforma-gestion-venta-online/201904021246141368462.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Cistella",
       "url": "cistellacastello.com",
-      "location": "Castellón",
-      "promoter": "Ayuntamiento de Castellón",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "location": "Castell\u00f3n",
+      "promoter": "Ayuntamiento de Castell\u00f3n",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "A medida",
-      "budget": "Al menos 30.000 euros del Ayuntamiento de Castellón, según «El Periódico Mediterráneo»",
+      "budget": "Al menos 30.000 euros del Ayuntamiento de Castell\u00f3n, seg\u00fan \u00abEl Peri\u00f3dico Mediterr\u00e1neo\u00bb",
       "references": [
-        "https://www.elperiodicomediterraneo.com/castello/2020/12/15/cistella-nueva-forma-comprar-castello-40649982.html",
-        "https://www.elperiodicomediterraneo.com/castello-provincia/2021/03/28/cistella-revitaliza-comercios-proximidad-castello-45920665.html"
-      ]
-    },
-    {
+          "https://www.elperiodicomediterraneo.com/castello/2020/12/15/cistella-nueva-forma-comprar-castello-40649982.html",
+          "https://www.elperiodicomediterraneo.com/castello-provincia/2021/03/28/cistella-revitaliza-comercios-proximidad-castello-45920665.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Compra en Soria",
       "url": "compraensoria.com",
       "location": "Soria",
-      "promoter": "FOES + FEC Soria + Junta de Castilla y León",
-      "release_date": "junio de 2020",
-      "status": "En línea",
+      "promoter": "FOES + FEC Soria + Junta de Castilla y Le\u00f3n",
+      "release_date": "202006",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://compraensoria.com/blog/5_FOES-y-FECSoria-ponen-en-marcha-compraensoria",
-        "https://elpais.com/economia/2020-12-11/un-amazon-soriano-para-enviar-torreznos.html"
-      ]
-    },
-    {
+          "https://compraensoria.com/blog/5_FOES-y-FECSoria-ponen-en-marcha-compraensoria",
+          "https://elpais.com/economia/2020-12-11/un-amazon-soriano-para-enviar-torreznos.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "NetPYM",
       "url": "tienda.netpym.com",
       "location": "Toledo",
       "promoter": "FEDETO + Ayuntamiento de Toledo",
-      "release_date": "diciembre de 2020",
-      "status": "Solo hay 40 productos de un puñado de comercios y el blog está lleno de spam. ¿Abandonado?",
+      "release_date": "202012",
+      "status": "Solo hay 40 productos de un pu\u00f1ado de comercios y el blog est\u00e1 lleno de spam. \u00bfAbandonado?",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://www.lanzadigital.com/castilla-la-mancha/nace-netpym-una-aplicacion-movil-para-acercar-los-productos-del-comercio-local-toledano-al-consumidor/"
-      ]
-    },
-    {
+          "https://www.lanzadigital.com/castilla-la-mancha/nace-netpym-una-aplicacion-movil-para-acercar-los-productos-del-comercio-local-toledano-al-consumidor/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Navazon",
       "url": "navazon.es",
       "location": "Navalmoral de la Mata",
-      "promoter": "Asociación del Campo Arañuelo de la Pequeña y Mediana Empresa (ACAPYME)",
-      "release_date": "noviembre de 2020",
-      "status": "En línea",
+      "promoter": "Asociaci\u00f3n del Campo Ara\u00f1uelo de la Peque\u00f1a y Mediana Empresa (ACAPYME)",
+      "release_date": "202011",
+      "status": "En l\u00ednea",
       "technology": "iUrban",
       "budget": "15.000 euros del Ayuntamiento de Navalmoral",
       "references": [
-        "https://www.aytonavalmoral.es/2020/11/06/se-crea-la-plataforma-navazon-para-ayudar-al-comercio-local/",
-        "https://www.hoy.es/navalmoral/plataforma-line-navazon-20201114000904-ntvo.html"
-      ]
-    },
-    {
+          "https://www.aytonavalmoral.es/2020/11/06/se-crea-la-plataforma-navazon-para-ayudar-al-comercio-local/",
+          "https://www.hoy.es/navalmoral/plataforma-line-navazon-20201114000904-ntvo.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Ventor.mobi",
       "url": "ventor.mobi",
       "location": "Los Realejos",
       "promoter": "Ayuntamiento de Los Realejos",
-      "release_date": "marzo de 2021",
-      "status": "En línea",
+      "release_date": "202103",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://losrealejos.es/los-realejos-crea-ventor-mobi-para-que-el-comercio-realejero-pueda-vender-por-internet/"
-      ]
-    },
-    {
+          "https://losrealejos.es/los-realejos-crea-ventor-mobi-para-que-el-comercio-realejero-pueda-vender-por-internet/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "aunclic.shop",
       "url": "aunclic.shop",
-      "location": "Benicarló",
-      "promoter": "DOCE CONSULTORÍA NTIC + Ayuntamiento de Benicarló",
-      "release_date": "mayo de 2021",
-      "status": "En línea",
+      "location": "Benicarl\u00f3",
+      "promoter": "DOCE CONSULTOR\u00cdA NTIC + Ayuntamiento de Benicarl\u00f3",
+      "release_date": "202105",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://www.elperiodicomediterraneo.com/comarcas/2021/07/09/compra-clic-benicarlo-atrae-comercio-54824099.html",
-        "https://castelloextra.com/es/comarcas/benicarlo/arranca-en-benicarlo-plataforma-comercio-electronico-a-un-clic-shop-18000-productos-y-servicios/"
-      ]
-    },
-    {
+          "https://www.elperiodicomediterraneo.com/comarcas/2021/07/09/compra-clic-benicarlo-atrae-comercio-54824099.html",
+          "https://castelloextra.com/es/comarcas/benicarlo/arranca-en-benicarlo-plataforma-comercio-electronico-a-un-clic-shop-18000-productos-y-servicios/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "AmaNordeste.com",
       "url": "amanordeste.com",
       "location": "Ayuntamiento de San Cristobal de La Laguna",
       "promoter": "Ayuntamiento de San Cristobal de La Laguna",
-      "release_date": "abril de 2020",
-      "status": "En línea",
+      "release_date": "202004",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://www.eldiario.es/canariasahora/tenerifeahora/la_laguna/laguna-crea-tienda-online-vender-produccion-agricola-ganadera-municipio-canarias_1_7840914.html"
-      ]
-    },
-    {
+          "https://www.eldiario.es/canariasahora/tenerifeahora/la_laguna/laguna-crea-tienda-online-vender-produccion-agricola-ganadera-municipio-canarias_1_7840914.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "PlazaLevante",
       "url": "plazalevante.com",
       "location": "Molina de Segura (Murcia)",
-      "promoter": "Asociación comercial de Molina de Segura + Región de Murcia",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "promoter": "Asociaci\u00f3n comercial de Molina de Segura + Regi\u00f3n de Murcia",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "http://portal.molinadesegura.es/index.php?option=com_content&view=article&id=6628:la-asociacion-com-pro-pone-en-marcha-el-marketplace-del-comercio-de-proximidad-de-molina-de-segura-plazalevante-com&catid=8&Itemid=221","https://www.murcia.com/molina/noticias/2020/12/10-la-asociacion-com-pro-pone-en-marcha-el-marketplace-del-comercio-de-proximidad-de-molina-de-segura-plazalevantecom.asp"
-      ]
-    },
-    {
-      "name": "Puçol Comerç",
-      "url": "puçolcomerç.es",
-      "location": "Puçol",
-      "promoter": "Ayuntamiento de Puçol",
-      "release_date": "octubre de 2020",
-      "status": "En línea",
+          "http://portal.molinadesegura.es/index.php?option=com_content&view=article&id=6628:la-asociacion-com-pro-pone-en-marcha-el-marketplace-del-comercio-de-proximidad-de-molina-de-segura-plazalevante-com&catid=8&Itemid=221",
+          "https://www.murcia.com/molina/noticias/2020/12/10-la-asociacion-com-pro-pone-en-marcha-el-marketplace-del-comercio-de-proximidad-de-molina-de-segura-plazalevantecom.asp"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Pu\u00e7ol Comer\u00e7",
+      "url": "pu\u00e7olcomer\u00e7.es",
+      "location": "Pu\u00e7ol",
+      "promoter": "Ayuntamiento de Pu\u00e7ol",
+      "release_date": "202010",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
-      "references": "https://valenciaplaza.com/pucol-venta-internet-portal-mediano-pequeno-comercio"
-    },
-    {
+      "references": "https://valenciaplaza.com/pucol-venta-internet-portal-mediano-pequeno-comercio",
+      "re_released": false
+  },
+  {
       "name": "Alzira es comercio",
       "url": "alziraescomercio.com",
       "location": "Alzira (Valencia)",
-      "promoter": "Ajuntament d'Alzira + Iniciativa per al Desenvolupament Econòmic d'Alzira + Fondos FEDER + Cámaras de Comercio",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "promoter": "Ajuntament d'Alzira + Iniciativa per al Desenvolupament Econ\u00f2mic d'Alzira + Fondos FEDER + C\u00e1maras de Comercio",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
-      "budget": "De Europa: 15.575 €",
+      "budget": "De Europa: 15.575 \u20ac",
       "references": [
-        "https://www.levante-emv.com/el-mostrador/2020/12/21/alzira-apuesta-comercio-local-26602322.html",
-        "https://www.lavanguardia.com/local/valencia/20210810/7653364/denia-marketplace-perello-casa-mercados-locales-e-commerce.html"
-      ]
-    },
-    {
+          "https://www.levante-emv.com/el-mostrador/2020/12/21/alzira-apuesta-comercio-local-26602322.html",
+          "https://www.lavanguardia.com/local/valencia/20210810/7653364/denia-marketplace-perello-casa-mercados-locales-e-commerce.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Tenloencasa",
       "url": "tenloencasa.es",
       "location": "Petrer (Alicante)",
-      "promoter": "Asociación de comerciantes de Petrer + Ayuntamiento de Petrer",
-      "release_date": "enero de 2021",
-      "status": "En línea",
+      "promoter": "Asociaci\u00f3n de comerciantes de Petrer + Ayuntamiento de Petrer",
+      "release_date": "202101",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "40.000 euros entre 2020 y 2021",
       "references": [
-        "https://www.valledeelda.com/noticias/social/36850-el-comercio-de-petrer-se-suma-a-la-venta-online-con-marketplace-tenloencasa-es.html",
-        "https://www.valledeelda.com/noticias/noti-empresas/37674-tenloencasa-es-mas-de-1-500-productos-en-el-marketplace-del-comercio-de-petrer.html"
-      ]
-    },
-    {
-      "name": "Almería a domicilio",
+          "https://www.valledeelda.com/noticias/social/36850-el-comercio-de-petrer-se-suma-a-la-venta-online-con-marketplace-tenloencasa-es.html",
+          "https://www.valledeelda.com/noticias/noti-empresas/37674-tenloencasa-es-mas-de-1-500-productos-en-el-marketplace-del-comercio-de-petrer.html"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Almer\u00eda a domicilio",
       "url": "almeriaadomicilio.es",
-      "location": "Almería",
-      "promoter": "Ayuntamiento de Almería",
-      "release_date": "mayo de 2021",
-      "status": "En línea",
+      "location": "Almer\u00eda",
+      "promoter": "Ayuntamiento de Almer\u00eda",
+      "release_date": "202105",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.diariodealmeria.es/almeria/Nace-Amazon-Almeria-Conectando-comercio-online_0_1577243268.html",
-        "https://www.diariodealmeria.es/almeria/marketplace-reparto-domicilio-Almeria_0_1544247090.html?utm_source=twitter.com&utm_medium=smm&utm_campaign=noticias"
-      ]
-    },
-    {
+          "https://www.diariodealmeria.es/almeria/Nace-Amazon-Almeria-Conectando-comercio-online_0_1577243268.html",
+          "https://www.diariodealmeria.es/almeria/marketplace-reparto-domicilio-Almeria_0_1544247090.html?utm_source=twitter.com&utm_medium=smm&utm_campaign=noticias"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Comercio Alcobendas",
       "url": "comercioalcobendas.com",
       "location": "Alcobendas",
       "promoter": "Ayuntamiento de Alcobendas",
-      "release_date": "octubre de 2020",
-      "status": "En línea",
+      "release_date": "202010",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.alcobendas.org/es/noticia/50-comercios-locales-ya-ofrecen-sus-productos-a-traves-de-marketplace-alcobendas"
-      ]
-    },
-    {
+          "https://www.alcobendas.org/es/noticia/50-comercios-locales-ya-ofrecen-sus-productos-a-traves-de-marketplace-alcobendas"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Las Torres Market",
       "url": "lastorresmarket.com",
       "location": "Las Torres de Cotillas (Murcia)",
       "promoter": "Ayuntamiento de Las Torres de Cotillas",
-      "release_date": "enero de 2021",
-      "status": "En línea",
+      "release_date": "202101",
+      "status": "En l\u00ednea",
       "technology": "",
       "budget": "",
       "references": [
-        "https://murciadiario.com/art/25895/las-torres-de-cotillas-impulsa-el-comercio-local-con-el-marketplace-local-mas-grande-de-espana",
-        "https://murciadiario.com/art/25894/las-torres-de-cotillas-impulsa-el-pequeno-comercio-con-un-marketplace"
-      ]
-    },
-    {
+          "https://murciadiario.com/art/25895/las-torres-de-cotillas-impulsa-el-comercio-local-con-el-marketplace-local-mas-grande-de-espana",
+          "https://murciadiario.com/art/25894/las-torres-de-cotillas-impulsa-el-pequeno-comercio-con-un-marketplace"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Candelaria Marketplace",
       "url": "candelariamarketplace.com",
       "location": "Candelaria (Santa Cruz de Tenerife)",
       "promoter": "Ayuntamiento de Candelaria",
-      "release_date": "octubre de 2020",
-      "status": "En línea",
+      "release_date": "202010",
+      "status": "En l\u00ednea",
       "technology": "Odoo",
       "budget": "",
       "references": [
-        "https://www.candelaria.es/medio-centenar-de-comercios-ya-se-han-sumado-a-la-guia-comercial-digital-candelaria-marketplace/",
-        "https://www.candelaria.es/candelaria-marketplace-trabaja-en-su-guia-comercial-digital/"
-      ]
-    },
-    {
+          "https://www.candelaria.es/medio-centenar-de-comercios-ya-se-han-sumado-a-la-guia-comercial-digital-candelaria-marketplace/",
+          "https://www.candelaria.es/candelaria-marketplace-trabaja-en-su-guia-comercial-digital/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "AOL19",
       "url": "aol19.comerciodearrecife.com",
       "location": "Arrecife",
       "promoter": "Ayuntamiento de Arrecife",
-      "release_date": "mayo de 2020",
-      "status": "En línea",
+      "release_date": "202005",
+      "status": "En l\u00ednea",
       "technology": "A medida",
       "budget": "",
       "references": [
-        "https://www.lavozdelanzarote.com/actualidad/politica/arrecife-lanza-aol-19-una-nueva-web-para-que-los-comercios-de-la-capital-vendan-sus-productos-online_150761_102.html"
-      ]
-    },
-    {
-      "name": "Cáceres Marketplace",
+          "https://www.lavozdelanzarote.com/actualidad/politica/arrecife-lanza-aol-19-una-nueva-web-para-que-los-comercios-de-la-capital-vendan-sus-productos-online_150761_102.html"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "C\u00e1ceres Marketplace",
       "url": "comercio.caceres.es/marketplace",
-      "location": "Cáceres",
-      "promoter": "Ayuntamiento de Cáceres",
+      "location": "C\u00e1ceres",
+      "promoter": "Ayuntamiento de C\u00e1ceres",
       "release_date": "",
-      "status": "Solo hay 5 productos de 2 tiendas, y la cartografía no funciona. Parece abandonado.",
+      "status": "Solo hay 5 productos de 2 tiendas, y la cartograf\u00eda no funciona. Parece abandonado.",
       "technology": "A medida",
       "budget": "",
       "references": [
-        "https://comercio.caceres.es/marketplace"
-      ]
-    },
-    {
-      "name": "Cáceres Digital",
+          "https://comercio.caceres.es/marketplace"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "C\u00e1ceres Digital",
       "url": "caceresdigital.es",
-      "location": "Cáceres",
-      "promoter": "Cámara de Comercio de Cáceres",
-      "release_date": "diciembre de 2018",
-      "status": "En línea",
+      "location": "C\u00e1ceres",
+      "promoter": "C\u00e1mara de Comercio de C\u00e1ceres",
+      "release_date": "201812",
+      "status": "En l\u00ednea",
       "technology": "Hermeneus",
       "budget": "",
       "references": [
-        "https://www.caceresdigital.es/info/acerca-de",
-        "https://www.canalextremadura.es/index.php/a-la-carta/a-esta-hora/videos/el-amazon-extremeno"
-      ]
-    },
-    {
+          "https://www.caceresdigital.es/info/acerca-de",
+          "https://www.canalextremadura.es/index.php/a-la-carta/a-esta-hora/videos/el-amazon-extremeno"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Badaccu",
       "url": "badaccu.com",
       "location": "Badajoz",
-      "promoter": "Cámara de Comercio de Badajoz",
-      "release_date": "noviembre de 2017",
-      "status": "En línea",
+      "promoter": "C\u00e1mara de Comercio de Badajoz",
+      "release_date": "201711",
+      "status": "En l\u00ednea",
       "technology": "Hermeneus",
       "budget": "",
       "references": [
-        "https://www.badaccu.com/info/acerca-de",
-        "https://www.elperiodicoextremadura.com/extremadura/2020/11/26/marketplace-provincia-badajoz-43819943.html",
-        "https://www.hoy.es/badajoz/badaccu-plataforma-venta-20201128075130-nt.html"
-      ]
-    },
-    {
-      "name": "El Mercaderío",
+          "https://www.badaccu.com/info/acerca-de",
+          "https://www.elperiodicoextremadura.com/extremadura/2020/11/26/marketplace-provincia-badajoz-43819943.html",
+          "https://www.hoy.es/badajoz/badaccu-plataforma-venta-20201128075130-nt.html"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "El Mercader\u00edo",
       "url": "elmercaderio.es",
       "location": "Santander",
-      "promoter": "Ayuntamiento de Santander + Cámara de Comercio + Banco Santander",
-      "release_date": "julio de 2021",
-      "status": "En línea",
+      "promoter": "Ayuntamiento de Santander + C\u00e1mara de Comercio + Banco Santander",
+      "release_date": "202107",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "100.000 euros anuales",
       "references": [
-        "https://www.ifomo.es/articulo/santander/cantabria-santander-pone-marcha-mercaderio-amazon-santanderinos/20210726181415196627.html",
-        "https://www.europapress.es/cantabria/noticia-santander-pone-marcha-mercaderio-amazon-santanderinos-20210726142650.html"
-      ]
-    },
-    {
+          "https://www.ifomo.es/articulo/santander/cantabria-santander-pone-marcha-mercaderio-amazon-santanderinos/20210726181415196627.html",
+          "https://www.europapress.es/cantabria/noticia-santander-pone-marcha-mercaderio-amazon-santanderinos-20210726142650.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "LoTengo App",
       "url": "lotengoapp.com",
       "location": "Torrelavega (Cantabria)",
-      "promoter": "Cámara Torrelavega + Ayuntamiento de Torrelavega + Gobierno de Cantabria + El Diario Montañés + Territorio Rural Inteligente",
-      "release_date": "mayo de 2021",
-      "status": "Indisponible para iOS (Apple). La versión de Android tiene escasos contenidos. La cuenta de Twitter no existe",
+      "promoter": "C\u00e1mara Torrelavega + Ayuntamiento de Torrelavega + Gobierno de Cantabria + El Diario Monta\u00f1\u00e9s + Territorio Rural Inteligente",
+      "release_date": "202105",
+      "status": "Indisponible para iOS (Apple). La versi\u00f3n de Android tiene escasos contenidos. La cuenta de Twitter no existe",
       "technology": "",
       "budget": "",
       "references": [
-        "https://www.eldiariomontanes.es/torrelavega/camara-torrelavega-presenta-20210503094657-nt.html",
-        "https://www.europapress.es/cantabria/noticia-nace-lotengo-plataforma-digital-apoyar-comercio-minorista-torrelavega-20210430154722.html"
-      ]
-    },
-    {
+          "https://www.eldiariomontanes.es/torrelavega/camara-torrelavega-presenta-20210503094657-nt.html",
+          "https://www.europapress.es/cantabria/noticia-nace-lotengo-plataforma-digital-apoyar-comercio-minorista-torrelavega-20210430154722.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Utrera Zoco",
       "url": "utrerazoco.com",
       "location": "Utrera (Sevilla)",
       "promoter": "Ayuntamiento de Utrera",
-      "release_date": "abril de 2020",
+      "release_date": "202004",
       "status": "No responde",
       "technology": "",
       "budget": "",
       "references": [
-        "https://www.utrera.org/el-ayuntamiento-lanza-utrerazoco-com-una-plataforma-de-ventas-que-arranca-con-mas-de-60-comercios/",
-        "https://www.utreraweb.com/noticias-de-utrera/economia/2020/11822/el-ayuntamiento-lanza-utrera-zoco-una-plataforma-de-ventas-por-internet-que-arranca-con-mas-de-60-comercios-locales/",
-        "https://utreraaldia.com/mas-de-15-000-personas-han-visitado-utrerazoco-com/"
-      ]
-    },
-    {
+          "https://www.utrera.org/el-ayuntamiento-lanza-utrerazoco-com-una-plataforma-de-ventas-que-arranca-con-mas-de-60-comercios/",
+          "https://www.utreraweb.com/noticias-de-utrera/economia/2020/11822/el-ayuntamiento-lanza-utrera-zoco-una-plataforma-de-ventas-por-internet-que-arranca-con-mas-de-60-comercios-locales/",
+          "https://utreraaldia.com/mas-de-15-000-personas-han-visitado-utrerazoco-com/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Getafe Comercio",
       "url": "getafecomercio.es",
       "location": "Getafe (Madrid)",
       "promoter": "Ayuntamiento de Getafe",
-      "release_date": "abril de 2021",
-      "status": "En línea",
+      "release_date": "202104",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.getafe.es/getafe-presenta-su-nueva-plataforma-de-comercio-on-line-para-pequenos-comercios/",
-        "https://noticiasparamunicipios.com/municipios-madrid/getafe-los-vecinos-pueden-comprar-ya-online-en-40-comercios-locales",
-        "https://noticiasparamunicipios.com/municipios-madrid/getafe-una-plataforma-comercial-permitira-compras-online-en-galerias-y-tiendas-locales-ultima-hora/"
-      ]
-    },
-    {
-      "name": "Compra en Écija",
+          "https://www.getafe.es/getafe-presenta-su-nueva-plataforma-de-comercio-on-line-para-pequenos-comercios/",
+          "https://noticiasparamunicipios.com/municipios-madrid/getafe-los-vecinos-pueden-comprar-ya-online-en-40-comercios-locales",
+          "https://noticiasparamunicipios.com/municipios-madrid/getafe-una-plataforma-comercial-permitira-compras-online-en-galerias-y-tiendas-locales-ultima-hora/"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Compra en \u00c9cija",
       "url": "compraenecija.es",
-      "location": "Écija (Sevilla)",
-      "promoter": "Ayuntamiento de Écija",
-      "release_date": "abril de 2020",
-      "status": "En línea",
+      "location": "\u00c9cija (Sevilla)",
+      "promoter": "Ayuntamiento de \u00c9cija",
+      "release_date": "202004",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://areacomunicacion.ecija.es/la-plataforma-www-compraenecija-es-ya-esta-operativa/"
-      ]
-    },
-    {
+          "https://areacomunicacion.ecija.es/la-plataforma-www-compraenecija-es-ya-esta-operativa/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Yo compro en Ubrique",
       "url": "yocomproenubrique.com",
-      "location": "Ubrique (Cádiz)",
+      "location": "Ubrique (C\u00e1diz)",
       "promoter": "Ayuntamiento de Ubrique",
-      "release_date": "septiembre de 2020",
-      "status": "En línea",
+      "release_date": "202009",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://www.ayuntamientoubrique.es/noticias/fomento-y-empleo/2544-presentada-la-plataforma-de-marketplace-para-el-comercio-local-yo-compro-en-ubrique.html"
-      ]
-    },
-    {
-      "name": "Seseña Plaza",
-      "url": "seseñaplaza.com",
-      "location": "Seseña (Toledo)",
-      "promoter": "Ayuntamiento de Seseña",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+          "https://www.ayuntamientoubrique.es/noticias/fomento-y-empleo/2544-presentada-la-plataforma-de-marketplace-para-el-comercio-local-yo-compro-en-ubrique.html"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Sese\u00f1a Plaza",
+      "url": "sese\u00f1aplaza.com",
+      "location": "Sese\u00f1a (Toledo)",
+      "promoter": "Ayuntamiento de Sese\u00f1a",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://ayto-sesena.org/sesena-pone-en-marcha-sesena-plaza-la-nueva-plataforma-de-venta-online-del-comercio-local/"
-      ]
-    },
-    {
-      "name": "Úbeda Comercial",
+          "https://ayto-sesena.org/sesena-pone-en-marcha-sesena-plaza-la-nueva-plataforma-de-venta-online-del-comercio-local/"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "\u00dabeda Comercial",
       "url": "ubedacomercial.com",
-      "location": "Úbeda (Jaén)",
-      "promoter": "Ayuntamiento de Úbeda",
-      "release_date": "mayo de 2020",
-      "status": "En línea",
+      "location": "\u00dabeda (Ja\u00e9n)",
+      "promoter": "Ayuntamiento de \u00dabeda",
+      "release_date": "202005",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.horajaen.com/2020/05/24/nace-ubeda-comercial-el-revulsivo-para-impulsar-el-comercio-local/"
-      ]
-    },
-    {
+          "https://www.horajaen.com/2020/05/24/nace-ubeda-comercial-el-revulsivo-para-impulsar-el-comercio-local/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Compra ya en Campillos",
       "url": "comprayaencampillos.com",
-      "location": "Campillos (Málaga)",
+      "location": "Campillos (M\u00e1laga)",
       "promoter": "Ayuntamiento de Campillos",
-      "release_date": "mayo de 2021",
-      "status": "En línea",
+      "release_date": "202105",
+      "status": "En l\u00ednea",
       "technology": "",
       "budget": "11.300 euros",
       "references": [
-        "https://www.campillos.es/5037/com1_md3_cd-62068/el-ayuntamiento-presenta-comprayaencampillos-com-la-nueva-plataforma-de-venta-online-dirigida-a-los-comercios-de-campillos","http://claveeconomica.es/campillos-centro-comercial-online-comprayaencampillos-com/"
-      ]
-    },
-    {
+          "https://www.campillos.es/5037/com1_md3_cd-62068/el-ayuntamiento-presenta-comprayaencampillos-com-la-nueva-plataforma-de-venta-online-dirigida-a-los-comercios-de-campillos",
+          "http://claveeconomica.es/campillos-centro-comercial-online-comprayaencampillos-com/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Made in Cantabria",
       "url": "madeincantabria.es",
       "location": "Cantabria",
-      "promoter": "Fediscom + Gobierno de Cantabria + Banco Santander + El Diario Montañés",
-      "release_date": "diciembre de 2017",
-      "status": "En línea",
+      "promoter": "Fediscom + Gobierno de Cantabria + Banco Santander + El Diario Monta\u00f1\u00e9s",
+      "release_date": "201712",
+      "status": "En l\u00ednea",
       "technology": "A medida",
       "budget": "",
       "references": [
-        "https://www.eldiariomontanes.es/cantabria/nace-made-cantabria-20171201172701-nt.html",
-        "https://camaracantabria.com/comunicacion/fichanotas.php?id=0000001287",
-        "https://www.sican.es/nace-el-primer-markeplace-de-cantabria-con-el-apoyo-del-gobierno-regional/"
-      ]
-    },
-    {
-      "name": "Compra por Málaga",
+          "https://www.eldiariomontanes.es/cantabria/nace-made-cantabria-20171201172701-nt.html",
+          "https://camaracantabria.com/comunicacion/fichanotas.php?id=0000001287",
+          "https://www.sican.es/nace-el-primer-markeplace-de-cantabria-con-el-apoyo-del-gobierno-regional/"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Compra por M\u00e1laga",
       "url": "comprarpormalaga.com",
-      "location": "Málaga",
-      "promoter": "Ayuntamiento de Málaga + Cámara de Comercio de Málaga",
-      "release_date": "noviembre de 2015",
-      "status": "En línea",
+      "location": "M\u00e1laga",
+      "promoter": "Ayuntamiento de M\u00e1laga + C\u00e1mara de Comercio de M\u00e1laga",
+      "release_date": "201511",
+      "status": "En l\u00ednea",
       "technology": "Hermeneus",
       "budget": "",
       "references": [
-        "https://www.20minutos.es/noticia/2608975/0/presentada-comprarpormalaga-com-plataforma-comercio-electronico-para-ayudar-pequenas-empresas/",
-        "https://camaramalaga.com/se-presenta-comprarpormalaga-com-la-innovadora-plataforma-de-comercio-electronico-abierta-a-los-comercios-de-malaga/",
-        "https://www.comprarpormalaga.com/info/acerca-de"
-      ]
-    },
-    {
+          "https://www.20minutos.es/noticia/2608975/0/presentada-comprarpormalaga-com-plataforma-comercio-electronico-para-ayudar-pequenas-empresas/",
+          "https://camaramalaga.com/se-presenta-comprarpormalaga-com-la-innovadora-plataforma-de-comercio-electronico-abierta-a-los-comercios-de-malaga/",
+          "https://www.comprarpormalaga.com/info/acerca-de"
+      ],
+      "re_released": false
+  },
+  {
       "name": "De Manacor",
       "url": "demanacor.com",
       "location": "Manacor (Mallorca)",
       "promoter": "Ayuntamiento de Manacor",
-      "release_date": "mayo de 2020",
+      "release_date": "202005",
       "status": "Desaparecido",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://www.ultimahora.es/noticias/part-forana/2020/05/26/1168183/manacor-apuesta-por-comercio-local-una-plataforma-venta-online.html"
-      ]
-    },
-    {
+          "https://www.ultimahora.es/noticias/part-forana/2020/05/26/1168183/manacor-apuesta-por-comercio-local-una-plataforma-venta-online.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Vilatenda",
       "url": "vilatenda.com",
-      "location": "Villarreal (Castellón)",
+      "location": "Villarreal (Castell\u00f3n)",
       "promoter": "Ayuntamiento de Villarreal + Efecte Vila-real",
-      "release_date": "julio de 2017",
-      "status": "En línea",
+      "release_date": "201707",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://www.vila-real.es/portal/p_20_contenedor1.jsp?seccion=s_fnot_d4_v1.jsp&contenido=43177&tipo=8&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1&language=es&codMenu=128"
-      ]
-    },
-    {
+          "https://www.vila-real.es/portal/p_20_contenedor1.jsp?seccion=s_fnot_d4_v1.jsp&contenido=43177&tipo=8&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1&language=es&codMenu=128"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Euskalstore",
       "url": "euskalstore.com",
       "location": "Barakaldo (Vizcaya)",
       "promoter": "Ayuntamiento de Barakaldo + ACE Barakaldo",
-      "release_date": "junio de 2021",
-      "status": "En línea",
+      "release_date": "202106",
+      "status": "En l\u00ednea",
       "technology": "",
       "budget": "",
       "references": [
-        "https://www.deia.eus/bizkaia/ezkerraldea-enkarterri/2021/06/09/comercio-fabril-vende-on-line/1126823.html"
-      ]
-    },
-    {
+          "https://www.deia.eus/bizkaia/ezkerraldea-enkarterri/2021/06/09/comercio-fabril-vende-on-line/1126823.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "ConoceLaVilla",
       "url": "conocelavilla.es",
       "location": "Villaviciosa (Asturias)",
-      "promoter": "Asociación de Autónomos, Comerciantes y Servicios de Villaviciosa + Ayuntamiento de Villaviciosa",
-      "release_date": "julio de 2021",
-      "status": "En línea",
+      "promoter": "Asociaci\u00f3n de Aut\u00f3nomos, Comerciantes y Servicios de Villaviciosa + Ayuntamiento de Villaviciosa",
+      "release_date": "202107",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://villaviciosahermosa.com/noticias-de-villaviciosa/actualidad/villaviciosa-activa-el-servicio-de-bus-playa-a-rodiles-por-quinto-ano-hasta-15-septiembre"
-      ]
-    },
-    {
+          "https://villaviciosahermosa.com/noticias-de-villaviciosa/actualidad/villaviciosa-activa-el-servicio-de-bus-playa-a-rodiles-por-quinto-ano-hasta-15-septiembre"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Elgoibar Klik",
       "url": "elgoibarklik.eus",
-      "location": "Elgoibar (Guipúzcoa)",
-      "promoter": "Ayuntamiento de Elgoibar + Diputación Foral de Guipúzcoa + Gobierno Vasco + comerciantes locales (Txankakua)",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "location": "Elgoibar (Guip\u00fazcoa)",
+      "promoter": "Ayuntamiento de Elgoibar + Diputaci\u00f3n Foral de Guip\u00fazcoa + Gobierno Vasco + comerciantes locales (Txankakua)",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "26.800 euros",
       "references": [
-        "https://www.diariovasco.com/bajo-deba/elgoibar/ayuntamiento-elgoibar-destina-20210608220622-ntvo.html",
-        "https://www.diariovasco.com/bajo-deba/elgoibar/plataforma-digital-elgoibarklik-20201216002240-ntvo.html",
-        "https://www.elgoibar.eus/index.php/es/albiste-gehiago/4798-elgoibar-podra-comprar-a-partir-de-manana-a-traves-de-la-plataforma-digital-elgoibarklik",
-        "https://www.noticiasdegipuzkoa.eus/gipuzkoa/debabarrena/2020/11/18/sector-servicios-elgoibar-tendra-plataforma/1068966.html"
-      ]
-    },
-    {
-      "name": "Yo Compro en l'Alfàs",
+          "https://www.diariovasco.com/bajo-deba/elgoibar/ayuntamiento-elgoibar-destina-20210608220622-ntvo.html",
+          "https://www.diariovasco.com/bajo-deba/elgoibar/plataforma-digital-elgoibarklik-20201216002240-ntvo.html",
+          "https://www.elgoibar.eus/index.php/es/albiste-gehiago/4798-elgoibar-podra-comprar-a-partir-de-manana-a-traves-de-la-plataforma-digital-elgoibarklik",
+          "https://www.noticiasdegipuzkoa.eus/gipuzkoa/debabarrena/2020/11/18/sector-servicios-elgoibar-tendra-plataforma/1068966.html"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Yo Compro en l'Alf\u00e0s",
       "url": "yocomproenlalfas.com",
-      "location": "L'Alfàs del Pi (Alicante)",
-      "promoter": "Iniciativa particular + Ayuntamiento de l'Alfàs del Pi",
-      "release_date": "junio de 2020",
+      "location": "L'Alf\u00e0s del Pi (Alicante)",
+      "promoter": "Iniciativa particular + Ayuntamiento de l'Alf\u00e0s del Pi",
+      "release_date": "202006",
       "status": "Desaparecido",
       "technology": "",
       "budget": "",
       "references": [
-        "https://alicanteplaza.es/el-amazon-alfasino-una-web-auna-a-los-comercios-locales-y-permite-la-compra-de-sus-productos",
-        "https://www.lalfas.es/concejalias/comercio/nace-el-portal-web-www-yocomproenlalfas-com-para-dar-un-impulso-al-comercio-local/"
-      ]
-    },
-    {
+          "https://alicanteplaza.es/el-amazon-alfasino-una-web-auna-a-los-comercios-locales-y-permite-la-compra-de-sus-productos",
+          "https://www.lalfas.es/concejalias/comercio/nace-el-portal-web-www-yocomproenlalfas-com-para-dar-un-impulso-al-comercio-local/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Compra en Gines",
       "url": "compragines.es",
       "location": "Gines (Sevilla)",
       "promoter": "Ayuntamiento de Gines",
-      "release_date": "abril de 2020",
-      "status": "En línea",
+      "release_date": "202004",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "http://www.ayuntamientodegines.es/index.php?option=com_content&view=article&id=4926:el-ayuntamiento-pone-en-marcha-compra-gines-una-nueva-plataforma-digital-de-apoyo-al-comercio-local&catid=34&Itemid=209"
-      ]
-    },
-    {
+          "http://www.ayuntamientodegines.es/index.php?option=com_content&view=article&id=4926:el-ayuntamiento-pone-en-marcha-compra-gines-una-nueva-plataforma-digital-de-apoyo-al-comercio-local&catid=34&Itemid=209"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Pasea por Fene",
       "url": "paseaporfene.gal",
-      "location": "Fene (A Coruña)",
+      "location": "Fene (A Coru\u00f1a)",
       "promoter": "Concello de Fene",
-      "release_date": "junio de 2021",
-      "status": "En línea",
+      "release_date": "202106",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.lavozdegalicia.es/amp/noticia/ferrol/fene/2021/06/26/comercio-local-fene-confluye-unico-punto-venta-web-70-negocios/0003_202106F26C7996.htm",
-        "https://www.diariodeferrol.com/texto-diario/mostrar/2867181/concello-fene-lanza-plataforma-potenciar-venta-online-comercio-local"
-      ]
-    },
-    {
+          "https://www.lavozdegalicia.es/amp/noticia/ferrol/fene/2021/06/26/comercio-local-fene-confluye-unico-punto-venta-web-70-negocios/0003_202106F26C7996.htm",
+          "https://www.diariodeferrol.com/texto-diario/mostrar/2867181/concello-fene-lanza-plataforma-potenciar-venta-online-comercio-local"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Albacete a un clic",
       "url": "albaceteaunclic.com",
       "location": "Albacete",
-      "promoter": "Ayuntamiento de Albacete + Asociación Albacete Centro",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "promoter": "Ayuntamiento de Albacete + Asociaci\u00f3n Albacete Centro",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://cadenaser.com/emisora/2020/12/11/radio_albacete/1607689889_034203.html",
-        "https://www.masquealba.com/noticias/albacete/item/45735-lanzan-albacete-a-un-clic-para-el-comercio-de-la-ciudad.html"
-      ]
-    },
-    {
+          "https://cadenaser.com/emisora/2020/12/11/radio_albacete/1607689889_034203.html",
+          "https://www.masquealba.com/noticias/albacete/item/45735-lanzan-albacete-a-un-clic-para-el-comercio-de-la-ciudad.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Atiende",
       "url": "",
       "location": "Albacete",
-      "promoter": "Federación de Comercio de Albacete + Junta de Comunidades de Castilla-La Mancha",
-      "release_date": "noviembre de 2021",
+      "promoter": "Federaci\u00f3n de Comercio de Albacete + Junta de Comunidades de Castilla-La Mancha",
+      "release_date": "202111",
       "status": "???",
       "technology": "???",
-      "budget": "9.000 euros, que ha financiado en un 85% la Consejería de Economía y el 15% restante la Federación de Comercio",
+      "budget": "9.000 euros, que ha financiado en un 85% la Consejer\u00eda de Econom\u00eda y el 15% restante la Federaci\u00f3n de Comercio",
       "references": [
-        "https://www.masquealba.com/noticias/albacete/item/51211-la-federacion-de-comercio-de-albacete-lanza-el-marketplace-atiende.html",
-        "https://cadenaser.com/emisora/2021/11/16/radio_albacete/1637070847_062675.html?ssm=tw"
-      ]
-    },
-    {
+          "https://www.masquealba.com/noticias/albacete/item/51211-la-federacion-de-comercio-de-albacete-lanza-el-marketplace-atiende.html",
+          "https://cadenaser.com/emisora/2021/11/16/radio_albacete/1637070847_062675.html?ssm=tw"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Jo compre a Oliva",
       "url": "jocompreaoliva.es",
       "location": "Oliva (Valencia)",
       "promoter": "Ayuntamiento de Oliva",
-      "release_date": "julio de 2021",
-      "status": "En línea",
+      "release_date": "202107",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.oliva.es/noticia/sinicia-la-campanya-jo-compre-oliva-en-linia-amb-la-fase-de-formacio"
-      ]
-    },
-    {
+          "https://www.oliva.es/noticia/sinicia-la-campanya-jo-compre-oliva-en-linia-amb-la-fase-de-formacio"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Marketplace Cabanillas",
       "url": "marketplace.cabanillas.app",
       "location": "Cabanillas del Campo (Guadalajara)",
       "promoter": "Ayuntamiento de Cabanillas del Campo",
-      "release_date": "febrero de 2021",
-      "status": "En línea",
+      "release_date": "202102",
+      "status": "En l\u00ednea",
       "technology": "A medida",
       "budget": "",
       "references": [
-        "https://aytocabanillas.org/ya-operativa-la-plataforma-market-place-cabanillas-que-echa-a-andar-con-33-comercios-asociados/",
-        "https://aytocabanillas.org/el-ayuntamiento-impulsa-marketplace-cabanillas-una-plataforma-de-comercio-electronico-para-las-pymes-locales/"
-      ]
-    },
-    {
+          "https://aytocabanillas.org/ya-operativa-la-plataforma-market-place-cabanillas-que-echa-a-andar-con-33-comercios-asociados/",
+          "https://aytocabanillas.org/el-ayuntamiento-impulsa-marketplace-cabanillas-una-plataforma-de-comercio-electronico-para-las-pymes-locales/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "",
       "url": "",
-      "location": "La Nucía (Alicante)",
-      "promoter": "Ayuntamiento de La Nucía + Lab_Nucia + Asociación de Empresarios y Comerciantes de La Nucía",
-      "release_date": "Pendiente de lanzamiento",
+      "location": "La Nuc\u00eda (Alicante)",
+      "promoter": "Ayuntamiento de La Nuc\u00eda + Lab_Nucia + Asociaci\u00f3n de Empresarios y Comerciantes de La Nuc\u00eda",
+      "release_date": "",
       "status": "Pendiente de lanzamiento",
       "technology": "",
-      "budget": "50.820 euros (20.000 de ellos, FEDER a la Cámara)",
+      "budget": "50.820 euros (20.000 de ellos, FEDER a la C\u00e1mara)",
       "references": [
-        "https://alicanteplaza.es/la-nucia-prepara-un-amazon-local-para-modernizar-el-comercio-de-la-localidad"
-      ]
-    },
-    {
-      "name": "Marazón",
+          "https://alicanteplaza.es/la-nucia-prepara-un-amazon-local-para-modernizar-el-comercio-de-la-localidad"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Maraz\u00f3n",
       "url": "marazon.es",
       "location": "Maracena (Granada)",
       "promoter": "ECAMA + Ayuntamiento de Maracena",
-      "release_date": "mayo de 2021",
-      "status": "En línea",
+      "release_date": "202105",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://www.granadahoy.com/area_metropolitana/Marazon-plataforma-web-Maracena-comercio-local-internet_0_1570943634.html"
-      ]
-    },
-    {
+          "https://www.granadahoy.com/area_metropolitana/Marazon-plataforma-web-Maracena-comercio-local-internet_0_1570943634.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Compra ya en Lebrija",
       "url": "comprayaenlebrija.com",
       "location": "Lebrija (Sevilla)",
       "promoter": "Ayuntamiento de Lebrija",
-      "release_date": "septiembre de 2020",
-      "status": "En línea",
+      "release_date": "202009",
+      "status": "En l\u00ednea",
       "technology": "",
       "budget": "",
       "references": [
-        "http://www.lebrija.es/es/actualidad/noticias/Mas-de-40-comercios-forman-parte-ya-de-la-plataforma-de-venta-online-Compra-ya-en-Lebrija/?urlBack="
-      ]
-    },
-    {
-      "name": "EsAlcázarComercio",
+          "http://www.lebrija.es/es/actualidad/noticias/Mas-de-40-comercios-forman-parte-ya-de-la-plataforma-de-venta-online-Compra-ya-en-Lebrija/?urlBack="
+      ],
+      "re_released": false
+  },
+  {
+      "name": "EsAlc\u00e1zarComercio",
       "url": "esalcazarcomercio.es",
-      "location": "Alcázar de San Juan (Ciudad Real)",
-      "promoter": "Ayuntamiento de Alcázar de San Juan + Cámara de Comercio de Ciudad Real",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "location": "Alc\u00e1zar de San Juan (Ciudad Real)",
+      "promoter": "Ayuntamiento de Alc\u00e1zar de San Juan + C\u00e1mara de Comercio de Ciudad Real",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://elsemanaldelamancha.com/art/36294/nace-la-plataforma-esalcazarcomercioes-a-la-que-ya-han-adherido-mas-de-40-establecimientos"
-      ]
-    },
-    {
+          "https://elsemanaldelamancha.com/art/36294/nace-la-plataforma-esalcazarcomercioes-a-la-que-ya-han-adherido-mas-de-40-establecimientos"
+      ],
+      "re_released": false
+  },
+  {
       "name": "CalahorraShop",
       "url": "calahorrashop.com",
       "location": "Calahorra (La Rioja)",
-      "promoter": "Ayuntamiento de Calahorra + Gobierno de La Rioja + Agencia de Desarrollo Económico de La Rioja (ADER)",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "promoter": "Ayuntamiento de Calahorra + Gobierno de La Rioja + Agencia de Desarrollo Econ\u00f3mico de La Rioja (ADER)",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "http://www.calahorra.es/portal/contenedor1.jsp?seccion=s_fnot_d4_v1.jsp&contenido=19087&tipo=8&nivel=1400&layout=contenedor1.jsp&codResi=1&language=es",
-        "https://actualidadriojabaja.com/calahorra-abre-su-marketplace-en-la-red/",
-        "https://calahorrashop.com/somos-el-mercado-online-de-calahorra/"
-      ]
-    },
-    {
+          "http://www.calahorra.es/portal/contenedor1.jsp?seccion=s_fnot_d4_v1.jsp&contenido=19087&tipo=8&nivel=1400&layout=contenedor1.jsp&codResi=1&language=es",
+          "https://actualidadriojabaja.com/calahorra-abre-su-marketplace-en-la-red/",
+          "https://calahorrashop.com/somos-el-mercado-online-de-calahorra/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Erosi Eibarren",
       "url": "erosieibarren.eus",
-      "location": "Eibar (Guipúzcoa)",
+      "location": "Eibar (Guip\u00fazcoa)",
       "promoter": "Ayuntamiento de Eibar y Eibar Centro Comercial Abierto",
-      "release_date": "abril de 2021",
-      "status": "En línea",
+      "release_date": "202104",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "70.000 euros del ayuntamiento",
       "references": [
-        "https://www.eibar.eus/es/noticias/el-ayuntamiento-de-eibar-pone-en-marcha-la-plataforma-digital-www-erosieibarren-eus-para-poder-realizar-compras-online-en-comercios-eibarreses"
-      ]
-    },
-    {
+          "https://www.eibar.eus/es/noticias/el-ayuntamiento-de-eibar-pone-en-marcha-la-plataforma-digital-www-erosieibarren-eus-para-poder-realizar-compras-online-en-comercios-eibarreses"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Cartagena Market",
       "url": "cartagenamarket.es",
       "location": "Cartagena (Murcia)",
       "promoter": "Ayuntamiento de Cartagena",
-      "release_date": "enero de 2021",
+      "release_date": "202101",
       "status": "Inaccesible",
       "technology": "",
       "budget": "",
       "references": [
-        "https://cartagena.es/detalle_noticias.asp?id=61709",
-        "https://www.cartagena.es/detalle_noticias.asp?id=60269",
-        "https://murciadiario.com/art/23467/cartagena-lanza-un-marketplace-de-productos-locales"
-      ]
-    },
-    {
+          "https://cartagena.es/detalle_noticias.asp?id=61709",
+          "https://www.cartagena.es/detalle_noticias.asp?id=60269",
+          "https://murciadiario.com/art/23467/cartagena-lanza-un-marketplace-de-productos-locales"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Beniel Market",
       "url": "benielmarket.es",
       "location": "Beniel (Murcia)",
       "promoter": "Ayuntamiento de Beniel",
-      "release_date": "julio de 2021",
-      "status": "En línea",
+      "release_date": "202107",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
-      "budget": "18.000 € + otras cantidades a futuro",
+      "budget": "18.000 \u20ac + otras cantidades a futuro",
       "references": [
-        "https://www.eldiario.es/murcia/municipios/beniel-lanza-plataforma-comercio-online-impulsar-actividad-local-idea-competir-cercania-grandes-plataformas_1_8278637.html",
-        "https://www.laverdad.es/murcia/otros-municipios/beniel-market-venta-20210716000000-nt.html"
-      ]
-    },
-    {
+          "https://www.eldiario.es/murcia/municipios/beniel-lanza-plataforma-comercio-online-impulsar-actividad-local-idea-competir-cercania-grandes-plataformas_1_8278637.html",
+          "https://www.laverdad.es/murcia/otros-municipios/beniel-market-venta-20210716000000-nt.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "BurgosEnCasa",
       "url": "burgosencasa.com",
       "location": "Burgos",
-      "promoter": "Iniciativa privada; pide ayuda pública de 100.000 €/año para continuar",
-      "release_date": "marzo de 2020",
-      "status": "En línea",
+      "promoter": "Iniciativa privada; pide ayuda p\u00fablica de 100.000 \u20ac/a\u00f1o para continuar",
+      "release_date": "202003",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://www.diariodeburgos.es/noticia/ZAAAD3C7A-DACC-9F15-A484FBBA06110141/BurgosEnCasa-para-ayudar-al-comercio-local-y-las-familias",
-        "https://www.diariodeburgos.es/amp/noticia/za2e53ca9-d816-3abc-abadf2055a3e4a11/202101/el-amazon-burgalés-urge-capital-para-sostener-su-servicio"
-      ]
-    },
-    {
+          "https://www.diariodeburgos.es/noticia/ZAAAD3C7A-DACC-9F15-A484FBBA06110141/BurgosEnCasa-para-ayudar-al-comercio-local-y-las-familias",
+          "https://www.diariodeburgos.es/amp/noticia/za2e53ca9-d816-3abc-abadf2055a3e4a11/202101/el-amazon-burgal\u00e9s-urge-capital-para-sostener-su-servicio"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Eup!",
       "url": "eup.eus",
       "location": "Vizcaya",
-      "promoter": "Diputación Foral de Vizcaya + BBK",
-      "release_date": "junio de 2021",
-      "status": "En línea",
+      "promoter": "Diputaci\u00f3n Foral de Vizcaya + BBK",
+      "release_date": "202106",
+      "status": "En l\u00ednea",
       "technology": "A medida",
-      "budget": "3 millones de euros en tres años",
+      "budget": "3 millones de euros en tres a\u00f1os",
       "references": [
-        "https://web.bizkaia.eus/es/web/area-de-prensa/noticias/-/news/detailView/21476",
-        "https://www.eldiario.es/euskadi/plataforma-compras-on-line-eup-inicia-andadura-3-500-productos-210-comercios-bizkaia_1_8009170.html",
-        "https://www.elcorreo.com/bizkaia/diputacion-y-bbk-lanzan-eup-una-gran-tienda-digital-para-impulsar-el-comercio-minorista-vizcaino-20201221114710-nt.html"
-      ]
-    },
-    {
+          "https://web.bizkaia.eus/es/web/area-de-prensa/noticias/-/news/detailView/21476",
+          "https://www.eldiario.es/euskadi/plataforma-compras-on-line-eup-inicia-andadura-3-500-productos-210-comercios-bizkaia_1_8009170.html",
+          "https://www.elcorreo.com/bizkaia/diputacion-y-bbk-lanzan-eup-una-gran-tienda-digital-para-impulsar-el-comercio-minorista-vizcaino-20201221114710-nt.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Compra en Antequera",
       "url": "compraenantequera.com",
-      "location": "Antequera (Málaga)",
-      "promoter": "Ayuntamiento de Antequera + Asociación de Comercio, Empresas e Industria de Antequera + Mercado Municipal",
-      "release_date": "junio de 2021",
-      "status": "En línea",
+      "location": "Antequera (M\u00e1laga)",
+      "promoter": "Ayuntamiento de Antequera + Asociaci\u00f3n de Comercio, Empresas e Industria de Antequera + Mercado Municipal",
+      "release_date": "202106",
+      "status": "En l\u00ednea",
       "technology": "La misma que comercio.argandaciudad.es",
       "budget": "10.000 euros",
       "references": [
-        "https://www.andaluciacentro.com/malaga/antequera/antequera/24424/antequera-presenta-su-ambicioso-centro-comercial-virtual"
-      ]
-    },
-    {
+          "https://www.andaluciacentro.com/malaga/antequera/antequera/24424/antequera-presenta-su-ambicioso-centro-comercial-virtual"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Compra Algeciras",
       "url": "compralgeciras.com",
-      "location": "Algeciras (Cádiz)",
-      "promoter": "Ayuntamiento de Algeciras + Asociación de Comerciantes del Mercado Ingeniero Torroja",
-      "release_date": "abril de 2020",
+      "location": "Algeciras (C\u00e1diz)",
+      "promoter": "Ayuntamiento de Algeciras + Asociaci\u00f3n de Comerciantes del Mercado Ingeniero Torroja",
+      "release_date": "202004",
       "status": "Desaparecido",
       "technology": "",
       "budget": "",
       "references": [
-        "https://www.europasur.es/algeciras/compras-mercado-internet-telefono_0_1453355408.html"
-      ]
-    },
-    {
+          "https://www.europasur.es/algeciras/compras-mercado-internet-telefono_0_1453355408.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "d'eivissacasa.com",
       "url": "deivissacasa.com",
       "location": "Ibiza",
       "promoter": "Ayuntamiento de Ibiza + Gobierno de Baleares",
-      "release_date": "junio de 2020",
-      "status": "¿Abandonado? (según el ayuntamiento)",
+      "release_date": "202006",
+      "status": "\u00bfAbandonado? (seg\u00fan el ayuntamiento)",
       "technology": "A medida / Otro",
       "budget": "Fondos FEDER",
       "references": [
-        "https://www.eivissa.es/edusi/index.php/es/comunicacion/98-el-centro-comercial-en-linea-deivissacasa-com-entra-en-funcionamiento-el-viernes-12-de-junio",
-        "https://www.periodicodeibiza.es/pitiusas/ibiza/2021/11/15/1318863/consell-vila-dejan-como-escaparates-amazon-locales.html"
-      ]
-    },
-    {
+          "https://www.eivissa.es/edusi/index.php/es/comunicacion/98-el-centro-comercial-en-linea-deivissacasa-com-entra-en-funcionamiento-el-viernes-12-de-junio",
+          "https://www.periodicodeibiza.es/pitiusas/ibiza/2021/11/15/1318863/consell-vila-dejan-como-escaparates-amazon-locales.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Achocompra",
       "url": "achocompra.com.es",
       "location": "Torre-Pacheco (Murcia)",
       "promoter": "Ayuntamiento de Torre-Pacheco",
-      "release_date": "febrero de 2021",
-      "status": "En línea",
+      "release_date": "202102",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://www.murcia.com/torrepacheco/noticias/2021/02/01-puesta-en-marcha-de-la-plataforma-venta-on-line-achocompra-torre-pacheco.asp"
-      ]
-    },
-    {
+          "https://www.murcia.com/torrepacheco/noticias/2021/02/01-puesta-en-marcha-de-la-plataforma-venta-on-line-achocompra-torre-pacheco.asp"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Comercio Ciudad Real",
       "url": "comerciociudadreal.es",
       "location": "Ciudad Real",
-      "promoter": "Ayuntamiento de Ciudad Real + Cámara de Comercio de Ciudad Real",
-      "release_date": "noviembre de 2020",
-      "status": "En línea",
+      "promoter": "Ayuntamiento de Ciudad Real + C\u00e1mara de Comercio de Ciudad Real",
+      "release_date": "202011",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://www.ciudadreal.es/noticias/empleoypromocion/17263-hacer-la-compra-online-en-el-peque%C3%B1o-comercio-local-ya-es-posible-llega-el-%E2%80%9Camazon-de-ciudad-real%E2%80%9D.html"
-      ]
-    },
-    {
+          "https://www.ciudadreal.es/noticias/empleoypromocion/17263-hacer-la-compra-online-en-el-peque%C3%B1o-comercio-local-ya-es-posible-llega-el-%E2%80%9Camazon-de-ciudad-real%E2%80%9D.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Compra en Massamagrell",
       "url": "compraenmassamagrell.es",
       "location": "Massamagrell (Valencia)",
       "promoter": "Ayuntamiento de Massamagrell + comerciantes locales",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.elperiodic.com/massamagrell/massamagrell-presenta-plataforma-online-ayuda-comercio-local_721533"
-      ]
-    },
-    {
+          "https://www.elperiodic.com/massamagrell/massamagrell-presenta-plataforma-online-ayuda-comercio-local_721533"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Blue Market",
       "url": "oviedonline.com",
       "location": "Oviedo",
-      "promoter": "Ayuntamiento de Oviedo + Cámara de Oviedo",
-      "release_date": "noviembre de 2020",
+      "promoter": "Ayuntamiento de Oviedo + C\u00e1mara de Oviedo",
+      "release_date": "202011",
       "status": "???",
       "technology": "",
       "budget": "",
       "references": [
-        "https://www.elcomercio.es/oviedo/tiendas-suman-comercio-20201118000621-ntvo.html"
-      ]
-    },
-    {
+          "https://www.elcomercio.es/oviedo/tiendas-suman-comercio-20201118000621-ntvo.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Gran Canaria Me Gusta",
       "url": "grancanariamegusta.com",
       "location": "Gran Canaria",
-      "promoter": "Cabildo de Gran Canaria + Cámara de Comercio de Gran Canaria",
-      "release_date": "abril de 2020",
-      "status": "En línea",
+      "promoter": "Cabildo de Gran Canaria + C\u00e1mara de Comercio de Gran Canaria",
+      "release_date": "202004",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://www.canarias7.es/canarias/gran-canaria/el-mercado-virtual-del-cabildo-abre-con-200-productores-y-envios-a-domicilio-EB8982897"
-      ]
-    },
-    {
+          "https://www.canarias7.es/canarias/gran-canaria/el-mercado-virtual-del-cabildo-abre-con-200-productores-y-envios-a-domicilio-EB8982897"
+      ],
+      "re_released": false
+  },
+  {
       "name": "???",
       "url": "???",
       "location": "Oropesa del Mar",
       "promoter": "Ayuntamiento de Oropesa del Mar",
-      "release_date": "noviembre de 2020",
-      "status": "¿Pendiente de lanzamiento?",
+      "release_date": "202011",
+      "status": "\u00bfPendiente de lanzamiento?",
       "technology": "",
       "budget": "",
       "references": [
-        "https://www.castelloninformacion.com/oropesa-del-mar-crea-marketplace-online-comercio-local/",
-        "http://www.oropesadelmar.es/content/oropesa-del-mar-promueve-el-comercio-local-con-la-creacion-de-una-plataforma-de-venta-line",
-        "https://www.esmartcity.es/2020/10/01/plataforma-venta-online-promover-comercio-local-oropesa-mar-castellon"
-      ]
-    },
-    {
-      "name": "Logroño Compra",
+          "https://www.castelloninformacion.com/oropesa-del-mar-crea-marketplace-online-comercio-local/",
+          "http://www.oropesadelmar.es/content/oropesa-del-mar-promueve-el-comercio-local-con-la-creacion-de-una-plataforma-de-venta-line",
+          "https://www.esmartcity.es/2020/10/01/plataforma-venta-online-promover-comercio-local-oropesa-mar-castellon"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Logro\u00f1o Compra",
       "url": "logronocompra.es",
-      "location": "Logroño",
-      "promoter": "Ayuntamiento de Logroño + Cámara de Comercio de La Rioja",
+      "location": "Logro\u00f1o",
+      "promoter": "Ayuntamiento de Logro\u00f1o + C\u00e1mara de Comercio de La Rioja",
       "release_date": "",
-      "status": "En línea",
+      "status": "En l\u00ednea",
       "technology": "Propia",
       "budget": "42.410 euros",
       "references": [
-        "https://www.rioja2.com/n-148725-3-nace-logrono-compra-una-plataforma-para-potenciar-la-venta-online-del-comercio-local/",
-        "https://www.europapress.es/la-rioja/noticia-plataforma-marketplace-logrono-compra-estara-operativa-proximos-dias-mas-60-comercios-20201221131722.html"
-      ]
-    },
-    {
+          "https://www.rioja2.com/n-148725-3-nace-logrono-compra-una-plataforma-para-potenciar-la-venta-online-del-comercio-local/",
+          "https://www.europapress.es/la-rioja/noticia-plataforma-marketplace-logrono-compra-estara-operativa-proximos-dias-mas-60-comercios-20201221131722.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "El Portal de La Vall",
       "url": "elportaldelavall.es/botiga",
-      "location": "Tavernes de la Valldigna (Castellón)",
-      "promoter": "Ayuntamiento de Tavernes de la Valldigna + Associació de Comerciants de Tavernes + Mercat Municipal + Associació de Comerciants i Empresaris de la platja de Tavernes",
-      "release_date": "julio de 2021",
-      "status": "En línea",
+      "location": "Tavernes de la Valldigna (Castell\u00f3n)",
+      "promoter": "Ayuntamiento de Tavernes de la Valldigna + Associaci\u00f3 de Comerciants de Tavernes + Mercat Municipal + Associaci\u00f3 de Comerciants i Empresaris de la platja de Tavernes",
+      "release_date": "202107",
+      "status": "En l\u00ednea",
       "technology": "",
       "budget": "",
       "references": [
-        "https://somsafor.com/el-portal-de-la-vall-2021/",
-        "https://saforguia.com/art/62269/tavernes-presenta-el-portal-de-la-vall-una-plataforma-local-de-comercio-electronico"
-      ]
-    },
-    {
+          "https://somsafor.com/el-portal-de-la-vall-2021/",
+          "https://saforguia.com/art/62269/tavernes-presenta-el-portal-de-la-vall-una-plataforma-local-de-comercio-electronico"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Altea Market",
       "url": "alteamarket.com",
       "location": "Altea",
       "promoter": "Ayuntamiento de Altea + asociaciones de comerciantes locales",
-      "release_date": "marzo de 2021",
-      "status": "En línea",
+      "release_date": "202103",
+      "status": "En l\u00ednea",
       "technology": "Otra",
       "budget": "",
       "references": [
-        "https://alicanteplaza.es/el-ayuntamiento-lanza-altea-market-el-amazon-para-compras-online-en-68-tiendas-del-municipio"
-      ]
-    },
-    {
+          "https://alicanteplaza.es/el-ayuntamiento-lanza-altea-market-el-amazon-para-compras-online-en-68-tiendas-del-municipio"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Comercio do Morrazo",
       "url": "comerciodomorrazo.com",
       "location": "Morrazo (Pontevedra)",
       "promoter": "Mancomunidade de Concellos do Morrazo + Xunta de Galicia",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "Drupal",
       "budget": "",
       "references": [
-        "https://www.farodevigo.es/o-morrazo/2020/12/05/mancomunidad-fecimo-crean-directorio-empresas-25961510.html"
-      ]
-    },
-    {
-      "name": "Córdoba Shopping",
+          "https://www.farodevigo.es/o-morrazo/2020/12/05/mancomunidad-fecimo-crean-directorio-empresas-25961510.html"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "C\u00f3rdoba Shopping",
       "url": "diputacioncordobashopping.es",
-      "location": "Córdoba",
-      "promoter": "Diputación de Córdoba",
-      "release_date": "1/02/2021 (relanzamiento)",
-      "status": "En línea",
+      "location": "C\u00f3rdoba",
+      "promoter": "Diputaci\u00f3n de C\u00f3rdoba",
+      "release_date": "202102",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://www.lavozdelasubbetica.es/articulo/provincia/iprodeco-renueva-plataforma-cordoba-shopping-haciendola-mas-dinamica-visual-accesible/20210209140519023087.html"
-      ]
-    },
-    {
-      "name": "Rincón Market",
+          "https://www.lavozdelasubbetica.es/articulo/provincia/iprodeco-renueva-plataforma-cordoba-shopping-haciendola-mas-dinamica-visual-accesible/20210209140519023087.html"
+      ],
+      "re_released": true
+  },
+  {
+      "name": "Rinc\u00f3n Market",
       "url": "???",
-      "location": "Rincón de la Victoria (Málaga)",
-      "promoter": "Ayuntamiento de Rincón de la Frontera",
-      "release_date": "junio de 2020",
+      "location": "Rinc\u00f3n de la Victoria (M\u00e1laga)",
+      "promoter": "Ayuntamiento de Rinc\u00f3n de la Frontera",
+      "release_date": "202006",
       "status": "???",
       "technology": "???",
       "budget": "",
       "references": [
-        "https://www.laopiniondemalaga.es/axarquia/2020/06/02/rincon-lanza-plataforma-impulsar-comercio-27528845.html",
-        "https://www.malagahoy.es/rincon-de-la-victoria/App-Rincon-Market-operativa-comercios_0_1470153526.html",
-        "https://www.rincondelavictoria.es/es/marketplace1"
-      ]
-    },
-    {
+          "https://www.laopiniondemalaga.es/axarquia/2020/06/02/rincon-lanza-plataforma-impulsar-comercio-27528845.html",
+          "https://www.malagahoy.es/rincon-de-la-victoria/App-Rincon-Market-operativa-comercios_0_1470153526.html",
+          "https://www.rincondelavictoria.es/es/marketplace1"
+      ],
+      "re_released": false
+  },
+  {
       "name": "E-ponte.com",
       "url": "E-ponte.com",
       "location": "Pontevedra",
-      "promoter": "Concellería de Promoción Económica y Turismo de Pontevedra",
-      "release_date": "junio de 2020",
+      "promoter": "Conceller\u00eda de Promoci\u00f3n Econ\u00f3mica y Turismo de Pontevedra",
+      "release_date": "202006",
       "status": "No responde",
       "technology": "",
       "budget": "8.000 euros",
       "references": [
-        "https://pontevedraviva.com/xeral/65206/pontelovers-comercio-local-pontevedra-click-tienda-online-e-ponte/?lang=es",
-        "https://www.farodevigo.es/pontevedra/2020/10/16/comercio-local-alcance-clic-20172792.html"
-      ]
-    },
-    {
+          "https://pontevedraviva.com/xeral/65206/pontelovers-comercio-local-pontevedra-click-tienda-online-e-ponte/?lang=es",
+          "https://www.farodevigo.es/pontevedra/2020/10/16/comercio-local-alcance-clic-20172792.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Palencia de Compras",
       "url": "palenciadecompras.com",
       "location": "Palencia",
-      "promoter": "Ayuntamiento de Palencia + Diputación de Palencia",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "promoter": "Ayuntamiento de Palencia + Diputaci\u00f3n de Palencia",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "30.000 euros",
       "references": [
-        "https://www.elnortedecastilla.es/palencia/ayuntamiento-palencia-diputacion-20201204115737-nt.html",
-        "https://www.diariopalentino.es/noticia/Z81603140-A24E-4F0F-2F787BE0C054DC44/202101/palencia-de-compras-supera-los-134m-de-impactos-online"
-      ]
-    },
-    {
+          "https://www.elnortedecastilla.es/palencia/ayuntamiento-palencia-diputacion-20201204115737-nt.html",
+          "https://www.diariopalentino.es/noticia/Z81603140-A24E-4F0F-2F787BE0C054DC44/202101/palencia-de-compras-supera-los-134m-de-impactos-online"
+      ],
+      "re_released": false
+  },
+  {
       "name": "MercarenNava",
       "url": "mercarennava.com",
       "location": "Nava (Asturias)",
       "promoter": "Ayuntamiento de Nava",
-      "release_date": "julio de 2021",
-      "status": "En línea",
+      "release_date": "202107",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.lne.es/centro/2021/07/03/nava-crea-plataforma-venta-online-54623204.html",
-        "https://www.lne.es/centro/2021/07/02/negocios-nava-posicionan-internet-plataforma-54609988.amp.html?__twitter_impression=true"
-      ]
-    },
-    {
+          "https://www.lne.es/centro/2021/07/03/nava-crea-plataforma-venta-online-54623204.html",
+          "https://www.lne.es/centro/2021/07/02/negocios-nava-posicionan-internet-plataforma-54609988.amp.html?__twitter_impression=true"
+      ],
+      "re_released": false
+  },
+  {
       "name": "",
       "url": "",
       "location": "Las Merindades (Burgos)",
       "promoter": "Centro de Desarrollo Merindades + las Asociaciones de Comercio de la Comarca de Las Merindades",
-      "release_date": "junio de 2021",
+      "release_date": "202106",
       "status": "",
       "technology": "",
       "budget": "",
       "references": [
-        "https://www.burgosconecta.es/provincia/merindades/mercado-line-impulsar-20210628115921-nt_amp.html"
-      ]
-    },
-    {
+          "https://www.burgosconecta.es/provincia/merindades/mercado-line-impulsar-20210628115921-nt_amp.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Xuroa",
       "url": "xuroa.com",
       "location": "Menorca",
-      "promoter": "Asociación Empresarial de Comerciantes de Menorca + Consell Insular de Menorca",
-      "release_date": "abril de 2020",
-      "status": "En línea",
+      "promoter": "Asociaci\u00f3n Empresarial de Comerciantes de Menorca + Consell Insular de Menorca",
+      "release_date": "202004",
+      "status": "En l\u00ednea",
       "technology": "",
       "budget": "",
       "references": [
-        "https://www.ultimahora.es/noticias/economico/2021/02/09/1237097/xuroa-marketplace-menorca-para-vender-online.html",
-        "https://www.arabalears.cat/economia/xuroa-resposta-menorquina-plantar-amazon_1_1055749.html"
-      ]
-    },
-    {
+          "https://www.ultimahora.es/noticias/economico/2021/02/09/1237097/xuroa-marketplace-menorca-para-vender-online.html",
+          "https://www.arabalears.cat/economia/xuroa-resposta-menorquina-plantar-amazon_1_1055749.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "???",
       "url": "???",
       "location": "Vigo (Pontevedra)",
@@ -1005,67 +1080,72 @@
       "technology": "",
       "budget": "",
       "references": [
-        "https://vigohoy.es/concello-y-comercio-de-vigo-lanzan-una-plataforma-de-ventas-online-para-competir-con-amazon/",
-        "https://metropolitano.gal/enfoque/amazon-vigues-que-no-llega-caballero-vuelve-a-anunciarlo-nueve-meses-despues/amp/"
-      ]
-    },
-    {
+          "https://vigohoy.es/concello-y-comercio-de-vigo-lanzan-una-plataforma-de-ventas-online-para-competir-con-amazon/",
+          "https://metropolitano.gal/enfoque/amazon-vigues-que-no-llega-caballero-vuelve-a-anunciarlo-nueve-meses-despues/amp/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "ComercioGalicia",
       "url": "comerciogalicia.es",
       "location": "Galicia",
-      "promoter": "Xunta de Galicia + Federación Gallega de Comercio",
-      "release_date": "febrero de 2012",
-      "status": "En línea",
+      "promoter": "Xunta de Galicia + Federaci\u00f3n Gallega de Comercio",
+      "release_date": "201202",
+      "status": "En l\u00ednea",
       "technology": "PrestaShop",
       "budget": "",
       "references": [
-        "https://www.diariodepontevedra.es/articulo/galicia/la-plataforma-electronica-comerciogaliciaes-vera-la-luz-el-1-de-abril/20120207185500213456.html"
-      ]
-    },
-    {
-      "name": "Andalucía de Compras",
+          "https://www.diariodepontevedra.es/articulo/galicia/la-plataforma-electronica-comerciogaliciaes-vera-la-luz-el-1-de-abril/20120207185500213456.html"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Andaluc\u00eda de Compras",
       "url": "andaluciadecompras.es",
-      "location": "Andalucía",
-      "promoter": "Confederación de Empresarios del Comercio de Andalucía + Junta de Andalucía",
-      "release_date": "mayo de 2011",
+      "location": "Andaluc\u00eda",
+      "promoter": "Confederaci\u00f3n de Empresarios del Comercio de Andaluc\u00eda + Junta de Andaluc\u00eda",
+      "release_date": "201105",
       "status": "Parece ciberokupado (cybersquatting)",
       "technology": "",
-      "budget": "Un millón de euros",
+      "budget": "Un mill\u00f3n de euros",
       "references": [
-        "https://www.juntadeandalucia.es/presidencia/portavoz/055424/intervencion/presidente/junta/presentacion/plataforma/online/pequeno/comercio",
-        "https://www.tier1.es/portal/noticias/-/asset_publisher/2iKVVIJtZFMg/content/andalucia-de-compras-se-convierte-en-la-mayor-plataforma-multitienda-de-venta-online;jsessionid=uaG7rvmATK4B83or+VAXRP8I.undefined?redirect=https%3A%2F%2Fwww.tier1.es%2Fportal%2Fnoticias%3Bjsessionid%3DuaG7rvmATK4B83or%2BVAXRP8I.undefined%3Fp_p_id%3D101_INSTANCE_2iKVVIJtZFMg%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D2%26p_p_col_count%3D3%26_101_INSTANCE_2iKVVIJtZFMg_advancedSearch%3Dfalse%26_101_INSTANCE_2iKVVIJtZFMg_keywords%3D%26_101_INSTANCE_2iKVVIJtZFMg_delta%3D30%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_2iKVVIJtZFMg_cur%3D11%26_101_INSTANCE_2iKVVIJtZFMg_andOperator%3Dtrue",
-        "https://www.comerzzia.com/portal/-/andalucia-de-compras-la-mayor-plataforma-multitienda-de-venta-online"
-      ]
-    },
-    {
-      "name": "Valdepeñas Shopping",
-      "url": "valdepeñasshopping.com",
-      "location": "Valdepeñas (Ciudad Real)",
-      "promoter": "Ayuntamiento de Valdepeñas",
-      "release_date": "noviembre de 2020",
-      "status": "En línea",
+          "https://www.juntadeandalucia.es/presidencia/portavoz/055424/intervencion/presidente/junta/presentacion/plataforma/online/pequeno/comercio",
+          "https://www.tier1.es/portal/noticias/-/asset_publisher/2iKVVIJtZFMg/content/andalucia-de-compras-se-convierte-en-la-mayor-plataforma-multitienda-de-venta-online;jsessionid=uaG7rvmATK4B83or+VAXRP8I.undefined?redirect=https%3A%2F%2Fwww.tier1.es%2Fportal%2Fnoticias%3Bjsessionid%3DuaG7rvmATK4B83or%2BVAXRP8I.undefined%3Fp_p_id%3D101_INSTANCE_2iKVVIJtZFMg%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D2%26p_p_col_count%3D3%26_101_INSTANCE_2iKVVIJtZFMg_advancedSearch%3Dfalse%26_101_INSTANCE_2iKVVIJtZFMg_keywords%3D%26_101_INSTANCE_2iKVVIJtZFMg_delta%3D30%26p_r_p_564233524_resetCur%3Dfalse%26_101_INSTANCE_2iKVVIJtZFMg_cur%3D11%26_101_INSTANCE_2iKVVIJtZFMg_andOperator%3Dtrue",
+          "https://www.comerzzia.com/portal/-/andalucia-de-compras-la-mayor-plataforma-multitienda-de-venta-online"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Valdepe\u00f1as Shopping",
+      "url": "valdepe\u00f1asshopping.com",
+      "location": "Valdepe\u00f1as (Ciudad Real)",
+      "promoter": "Ayuntamiento de Valdepe\u00f1as",
+      "release_date": "202011",
+      "status": "En l\u00ednea",
       "technology": "",
       "budget": "75000 euros (20% ayuntamiento, 80% FEDER)",
       "references": [
-        "http://www.valdepenas.es/Rvd/noticias/2020-10/29-desarrolloempresarial/valdepenas-shooping-noviembre-navidad.html",
-        "https://www.elecodevaldepenas.es/texto-diario/mostrar/2141702/plataforma-market-place-valdepenas-shopping-comenzara-funcionar-mediados-noviembre-aprovechar-campana-navidad",
-        "https://www.lanzadigital.com/provincia/valdepenas/el-marketplace-valdepenas-shopping-comenzara-a-funcionar-a-mediados-de-noviembre"
-      ]
-    },
-    {
+          "http://www.valdepenas.es/Rvd/noticias/2020-10/29-desarrolloempresarial/valdepenas-shooping-noviembre-navidad.html",
+          "https://www.elecodevaldepenas.es/texto-diario/mostrar/2141702/plataforma-market-place-valdepenas-shopping-comenzara-funcionar-mediados-noviembre-aprovechar-campana-navidad",
+          "https://www.lanzadigital.com/provincia/valdepenas/el-marketplace-valdepenas-shopping-comenzara-a-funcionar-a-mediados-de-noviembre"
+      ],
+      "re_released": false
+  },
+  {
       "name": "DTiendas",
       "url": "dtiendaslinares.es",
-      "location": "Linares (Jaén)",
-      "promoter": "Cámara de Comercio de Linares + Ayuntamiento de Linares",
-      "release_date": "septiembre de 2020",
-      "status": "En línea",
+      "location": "Linares (Ja\u00e9n)",
+      "promoter": "C\u00e1mara de Comercio de Linares + Ayuntamiento de Linares",
+      "release_date": "202009",
+      "status": "En l\u00ednea",
       "technology": "Hermeneus",
       "budget": "Fondos FEDER",
       "references": [
-        "https://www.ciudaddelinares.es/noticias/nace-marketplace-dtiendaslinares-plataforma-para-la-venta-online-del-comercio-linarense"
-      ]
-    },
-    {
+          "https://www.ciudaddelinares.es/noticias/nace-marketplace-dtiendaslinares-plataforma-para-la-venta-online-del-comercio-linarense"
+      ],
+      "re_released": false
+  },
+  {
       "name": "",
       "url": "",
       "location": "Orihuela (Alicante)",
@@ -1075,357 +1155,383 @@
       "technology": "",
       "budget": "72.600 euros",
       "references": [
-        "https://vegabajadigital.com/orihuela-creara-una-marketplace-para-digitalizar-y-potenciar-su-comercio/",
-        "https://www.informacion.es/vega-baja/2021/06/01/orihuela-pondra-marcha-plataforma-comercio-52509014.html"
-      ]
-    },
-    {
-      "name": "Conectando Almería",
+          "https://vegabajadigital.com/orihuela-creara-una-marketplace-para-digitalizar-y-potenciar-su-comercio/",
+          "https://www.informacion.es/vega-baja/2021/06/01/orihuela-pondra-marcha-plataforma-comercio-52509014.html"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Conectando Almer\u00eda",
       "url": "conectandoalmeria.com",
-      "location": "Almería",
-      "promoter": "Ayuntamiento de Almería",
-      "release_date": "octubre de 2021",
-      "status": "En línea",
+      "location": "Almer\u00eda",
+      "promoter": "Ayuntamiento de Almer\u00eda",
+      "release_date": "202110",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://www.esradioalmeria.com/2021/05/25/nace-el-mayor-escaparate-digital-del-comercio-local-de-la-capital/",
-        "https://www.diariodealmeria.es/almeria/Nace-Amazon-Almeria-Conectando-comercio-online_0_1577243268.html"
-      ]
-    },
-    {
+          "https://www.esradioalmeria.com/2021/05/25/nace-el-mayor-escaparate-digital-del-comercio-local-de-la-capital/",
+          "https://www.diariodealmeria.es/almeria/Nace-Amazon-Almeria-Conectando-comercio-online_0_1577243268.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Comercio Arganda Ciudad",
       "url": "comercio.argandaciudad.es",
       "location": "Arganda",
       "promoter": "Ayuntamiento de Arganda del Rey (Madrid)",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "La misma que compraenantequera.com",
       "budget": "",
       "references": [
-        "https://actualarganda.com/el-ayuntamiento-pretende-potenciar-el-comercio-local-con-un-gran-mercado-virtual/",
-        "https://www.ayto-arganda.es/noticias/mas-de-un-centenar-de-comercios-y-establecimientos-de-la-localidad-ya-se-han-unido-al-centro-comercial-virtual-de-arganda-del-rey/",
-        "https://asearco.org/el-centro-comercial-virtual-de-arganda-del-rey-abre-sus-puertas-con-mas-de-un-centenar-de-establecimientos-locales/"
-      ]
-    },
-    {
+          "https://actualarganda.com/el-ayuntamiento-pretende-potenciar-el-comercio-local-con-un-gran-mercado-virtual/",
+          "https://www.ayto-arganda.es/noticias/mas-de-un-centenar-de-comercios-y-establecimientos-de-la-localidad-ya-se-han-unido-al-centro-comercial-virtual-de-arganda-del-rey/",
+          "https://asearco.org/el-centro-comercial-virtual-de-arganda-del-rey-abre-sus-puertas-con-mas-de-un-centenar-de-establecimientos-locales/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Compra donde vives",
       "url": "https://archena.compradondevives.es/",
       "location": "Archena (Murcia)",
       "promoter": "Ayuntamiento de Archena",
-      "release_date": "noviembre de 2020",
-      "status": "En línea",
+      "release_date": "202011",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.laopiniondemurcia.es/comunidad/2020/11/28/archena-impulsa-comercio-local-nueva-34472373.html",
-        "https://murciadiario.com/art/25019/archena-impulsa-al-comercio-local-con-una-nueva-plataforma-web-de-compra-venta-online"
-      ]
-    },
-    {
-      "name": "Peñarroya Plaza",
-      "url": "peñarroyaplaza.com",
-      "location": "Peñarroya",
-      "promoter": "Ayuntamiento de Peñarroya",
-      "release_date": "julio de 2021",
-      "status": "En línea",
+          "https://www.laopiniondemurcia.es/comunidad/2020/11/28/archena-impulsa-comercio-local-nueva-34472373.html",
+          "https://murciadiario.com/art/25019/archena-impulsa-al-comercio-local-con-una-nueva-plataforma-web-de-compra-venta-online"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Pe\u00f1arroya Plaza",
+      "url": "pe\u00f1arroyaplaza.com",
+      "location": "Pe\u00f1arroya",
+      "promoter": "Ayuntamiento de Pe\u00f1arroya",
+      "release_date": "202107",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.diariocordoba.com/cordoba/2021/07/22/ayuntamiento-penarroya-crea-marketplace-apoyar-55333837.html"
-      ]
-    },
-    {
-      "name": "El Marketplace de Ceutí",
+          "https://www.diariocordoba.com/cordoba/2021/07/22/ayuntamiento-penarroya-crea-marketplace-apoyar-55333837.html"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "El Marketplace de Ceut\u00ed",
       "url": "ceuti.compradondevives.es",
-      "location": "Ceutí (Murcia)",
-      "promoter": "Ayuntamiento de Ceutí + Región de Murcia",
-      "release_date": "octubre de 2020",
-      "status": "En línea",
+      "location": "Ceut\u00ed (Murcia)",
+      "promoter": "Ayuntamiento de Ceut\u00ed + Regi\u00f3n de Murcia",
+      "release_date": "202010",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.murcia.com/ceuti/noticias/2020/10/30-ceuti-contara-con-un-marketplace.asp"
-      ]
-    },
-    {
-      "name": "Abasto Abarán",
+          "https://www.murcia.com/ceuti/noticias/2020/10/30-ceuti-contara-con-un-marketplace.asp"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Abasto Abar\u00e1n",
       "url": "abasto.abaran.es",
-      "location": "Abarán (Murcia)",
-      "promoter": "Ayuntamiento de Abarán",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "location": "Abar\u00e1n (Murcia)",
+      "promoter": "Ayuntamiento de Abar\u00e1n",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://abarandiaadia.com/art/7907/ya-esta-online-abasto-la-web-del-pequeno-comercio-de-abaran",
-        "https://radioabaran.com/abasto-abaran-es-el-nuevo-portal-de-venta-en-internet-del-comercio-abaranero/"
-      ]
-    },
-    {
+          "https://abarandiaadia.com/art/7907/ya-esta-online-abasto-la-web-del-pequeno-comercio-de-abaran",
+          "https://radioabaran.com/abasto-abaran-es-el-nuevo-portal-de-venta-en-internet-del-comercio-abaranero/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Marketplace Ciudad Rodrigo",
       "url": "https://www.afecir.com/comprar/",
       "location": "Ciudad Rodrigo",
-      "promoter": "Asociación de Comercio de Ciudad Rodrigo + Ayuntamiento de Ciudad Rodrigo + Junta de Castilla y León",
-      "release_date": "octubre de 2020",
-      "status": "En línea",
+      "promoter": "Asociaci\u00f3n de Comercio de Ciudad Rodrigo + Ayuntamiento de Ciudad Rodrigo + Junta de Castilla y Le\u00f3n",
+      "release_date": "202010",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://www.ciudadrodrigo.net/2020/10/06/marketplace-la-tienda-virtual-de-ciudad-rodrigo-y-comarca/",
-        "https://pyme.info/2020/10/07/la-asociacion-de-comercio-de-ciudad-rodrigo-presenta-la-primera-marketplace-de-la-comarca-para-impulsar-las-ventas-en-internet/"
-      ]
-    },
-    {
+          "https://www.ciudadrodrigo.net/2020/10/06/marketplace-la-tienda-virtual-de-ciudad-rodrigo-y-comarca/",
+          "https://pyme.info/2020/10/07/la-asociacion-de-comercio-de-ciudad-rodrigo-presenta-la-primera-marketplace-de-la-comarca-para-impulsar-las-ventas-en-internet/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "44 calles",
       "url": "44calles.com",
       "location": "Teruel",
-      "promoter": "Ayuntamiento de Teruel + Centro Comercial Abierto de Teruel + Cámara de Comercio de Teruel + Asociación de Comerciantes del Centro Histórico de Teruel + otros",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "promoter": "Ayuntamiento de Teruel + Centro Comercial Abierto de Teruel + C\u00e1mara de Comercio de Teruel + Asociaci\u00f3n de Comerciantes del Centro Hist\u00f3rico de Teruel + otros",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "",
       "budget": "70.000 euros del Ayuntamiento",
       "references": [
-        "https://www.heraldo.es/noticias/aragon/teruel/2020/12/21/el-pequeno-comercio-de-teruel-se-lanza-a-internet-1411457.html",
-        "https://www.agecu.es/2020/10/el-ayuntamiento-de-teruel-crea-un-marketplace-para-apoyar-el-comercio-local-y-ayudar-a-la-empresas-a-vender-en-internet/",
-        "https://www.extradigital.es/teruel-crea-un-marketplace-para-apoyar-el-comercio-local-y-ayudar-a-las-empresas-a-vender-en-internet-aragon/",
-        "http://aytoteruel.es/portal/contenedor1.jsp?codResi=1&contenido=9557&language=es&nivel=1400&seccion=s_fnot_d4_v1.jsp&tipo=8"
-      ]
-    },
-    {
+          "https://www.heraldo.es/noticias/aragon/teruel/2020/12/21/el-pequeno-comercio-de-teruel-se-lanza-a-internet-1411457.html",
+          "https://www.agecu.es/2020/10/el-ayuntamiento-de-teruel-crea-un-marketplace-para-apoyar-el-comercio-local-y-ayudar-a-la-empresas-a-vender-en-internet/",
+          "https://www.extradigital.es/teruel-crea-un-marketplace-para-apoyar-el-comercio-local-y-ayudar-a-las-empresas-a-vender-en-internet-aragon/",
+          "http://aytoteruel.es/portal/contenedor1.jsp?codResi=1&contenido=9557&language=es&nivel=1400&seccion=s_fnot_d4_v1.jsp&tipo=8"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Locomprohu",
       "url": "locomprohu.com",
       "location": "Huesca",
-      "promoter": "Diputación de Huesca + Gobierno de Aragón + Federación de Empresarios de Comercio y Servicios de la Provincia de Huesca",
-      "release_date": "n",
-      "status": "En línea",
+      "promoter": "Diputaci\u00f3n de Huesca + Gobierno de Arag\u00f3n + Federaci\u00f3n de Empresarios de Comercio y Servicios de la Provincia de Huesca",
+      "release_date": "",
+      "status": "En l\u00ednea",
       "technology": "",
       "budget": "",
       "references": [
-        "https://www.heraldo.es/noticias/aragon/huesca/2021/09/28/una-nueva-web-pone-a-la-venta-productos-y-servicios-de-150-comercios-de-la-provincia-de-huesca-1522471.html",
-        "https://www.extradigital.es/el-comercio-altoaragones-da-el-salto-a-la-venta-online-en-compraenhuesca-com/"
-      ]
-    },
-    {
-      "name": "Més que mai comerç Gavà",
+          "https://www.heraldo.es/noticias/aragon/huesca/2021/09/28/una-nueva-web-pone-a-la-venta-productos-y-servicios-de-150-comercios-de-la-provincia-de-huesca-1522471.html",
+          "https://www.extradigital.es/el-comercio-altoaragones-da-el-salto-a-la-venta-online-en-compraenhuesca-com/"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "M\u00e9s que mai comer\u00e7 Gav\u00e0",
       "url": "mesquemaigava.cat",
-      "location": "Gavà (Barcelona)",
-      "promoter": "Ayuntamiento de Gavà",
+      "location": "Gav\u00e0 (Barcelona)",
+      "promoter": "Ayuntamiento de Gav\u00e0",
       "release_date": "",
       "status": "",
       "technology": "",
       "budget": "",
       "references": [
-        "https://www.metropoliabierta.com/economia/iniciativas-metropolitanas-comercio-local_26916_102.html"
-      ]
-    },
-    {
+          "https://www.metropoliabierta.com/economia/iniciativas-metropolitanas-comercio-local_26916_102.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Zornotzan Erosi",
       "url": "zornotzanerosi.eus",
       "location": "Amorebieta-Etxano",
       "promoter": "Ayuntamiento de Amorebieta-Etxano",
-      "release_date": "junio de 2021",
-      "status": "En línea",
+      "release_date": "202106",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "https://www.elcorreo.com/bizkaia/duranguesado/quieres-compras-online-20210610122008-nt.html",
-        "https://www.deia.eus/bizkaia/2021/06/25/estibaliz-martiartu-hemos-apostado-dudarlo/1131183.html"
-      ]
-    },
-    {
+          "https://www.elcorreo.com/bizkaia/duranguesado/quieres-compras-online-20210610122008-nt.html",
+          "https://www.deia.eus/bizkaia/2021/06/25/estibaliz-martiartu-hemos-apostado-dudarlo/1131183.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "De compras por Benavente",
       "url": "decomprasporbenavente.es",
       "location": "Benavente (Zamora)",
-      "promoter": "Ayuntamiento de Benavente + Diputación Provincial de Zamora + CEOE-Cepyme + Caja Rural",
-      "release_date": "diciembre de 2020",
-      "status": "Anunciada en diciembre. En febrero se publica que se lanza en marzo. En noviembre parece no haber arrancado todavía",
+      "promoter": "Ayuntamiento de Benavente + Diputaci\u00f3n Provincial de Zamora + CEOE-Cepyme + Caja Rural",
+      "release_date": "202012",
+      "status": "Anunciada en diciembre. En febrero se publica que se lanza en marzo. En noviembre parece no haber arrancado todav\u00eda",
       "technology": "",
-      "budget": "40.000 euros en dos años",
+      "budget": "40.000 euros en dos a\u00f1os",
       "references": [
-        "https://www.laopiniondezamora.es/benavente/2020/12/09/arranca-plataforma-digital-compras-benavente-26103840.html",
-        "https://interbenavente.es/art/40835/nace-de-compras-por-benavente-un-proyecto-pionero-en-la-provincia-de-compra-online-para-el-comercio-y-la-hosteleria-de-la-ciudad",
-        "https://interbenavente.es/art/41739/la-plataforma-comercial-online-de-compras-por-benavente-estara-operativa-en-el-mes-de-marzo"
-      ]
-    },
-    {
+          "https://www.laopiniondezamora.es/benavente/2020/12/09/arranca-plataforma-digital-compras-benavente-26103840.html",
+          "https://interbenavente.es/art/40835/nace-de-compras-por-benavente-un-proyecto-pionero-en-la-provincia-de-compra-online-para-el-comercio-y-la-hosteleria-de-la-ciudad",
+          "https://interbenavente.es/art/41739/la-plataforma-comercial-online-de-compras-por-benavente-estara-operativa-en-el-mes-de-marzo"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Sevilla de Compras",
       "url": "compradelsur.es",
       "location": "Provincia de Sevilla",
-      "promoter": "Cámara de Comercio de Sevilla",
-      "release_date": "abril de 2020",
-      "status": "En línea",
+      "promoter": "C\u00e1mara de Comercio de Sevilla",
+      "release_date": "202004",
+      "status": "En l\u00ednea",
       "technology": "Propia",
       "budget": "Fondos FEDER",
       "references": [
-        "https://camaradesevilla.com/2019/09/24/sevilla-digital-el-merketplace-para-comercios-de-sevilla/",
-        "https://elcorreoweb.es/provincia/gelves-se-une-a-la-plataforma-sevilla-de-compras-LB7164951",
-        "https://www.andaluciaeconomica.com/sevilla-digital-el-marketplace-para-los-comercios-de-sevilla-y-su-provincia/",
-        "https://www.boxdigital.es/sevilla-de-compras/",
-        "https://aprocom.org/sevilla-digital-el-marketplace-para-los-comercios-de-sevilla-y-su-provincia/"
-      ]
-    },
-    {
+          "https://camaradesevilla.com/2019/09/24/sevilla-digital-el-merketplace-para-comercios-de-sevilla/",
+          "https://elcorreoweb.es/provincia/gelves-se-une-a-la-plataforma-sevilla-de-compras-LB7164951",
+          "https://www.andaluciaeconomica.com/sevilla-digital-el-marketplace-para-los-comercios-de-sevilla-y-su-provincia/",
+          "https://www.boxdigital.es/sevilla-de-compras/",
+          "https://aprocom.org/sevilla-digital-el-marketplace-para-los-comercios-de-sevilla-y-su-provincia/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Compra en Ceuta",
       "url": "comprasenceuta.es",
       "location": "Ceuta",
-      "promoter": "Cámara de Comercio de Ceuta",
-      "release_date": "febrero de 2021",
-      "status": "En línea",
+      "promoter": "C\u00e1mara de Comercio de Ceuta",
+      "release_date": "202102",
+      "status": "En l\u00ednea",
       "technology": "Propia",
       "budget": "Fondos FEDER",
       "references": [
-        "http://ceutatv.com/art/32116/ceuta-ya-tiene-su-marketplace-compra-desde-casa-de-forma-intuitiva-y-segura",
-        "https://www.laverdaddeceuta.com/economia/noticias/politica/economia/nace-el-proyecto-compras-en-ceuta-una-marketplace-para-apoyar-a-los-comercios-locales",
-        "https://www.boxdigital.es/compra-en-ceuta/",
-        "http://ceutatv.com/art/32122/descubra-como-vender-o-comprar-en-el-marketplace-compra-en-ceuta-en-tres-sencillos-pasos"
-      ]
-    },
-    {
-      "name": "Dénia Marketplace",
+          "http://ceutatv.com/art/32116/ceuta-ya-tiene-su-marketplace-compra-desde-casa-de-forma-intuitiva-y-segura",
+          "https://www.laverdaddeceuta.com/economia/noticias/politica/economia/nace-el-proyecto-compras-en-ceuta-una-marketplace-para-apoyar-a-los-comercios-locales",
+          "https://www.boxdigital.es/compra-en-ceuta/",
+          "http://ceutatv.com/art/32122/descubra-como-vender-o-comprar-en-el-marketplace-compra-en-ceuta-en-tres-sencillos-pasos"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "D\u00e9nia Marketplace",
       "url": "",
-      "location": "Dénia",
-      "promoter": "Ayuntamiento de Dénia",
+      "location": "D\u00e9nia",
+      "promoter": "Ayuntamiento de D\u00e9nia",
       "release_date": "",
-      "status": "Anunciado en mayo; en noviembre no parece existir en línea",
+      "status": "Anunciado en mayo; en noviembre no parece existir en l\u00ednea",
       "technology": "",
-      "budget": "36.300 € FEDER",
+      "budget": "36.300 \u20ac FEDER",
       "references": [
-        "http://deniadigital.es/art/13217/el-proyecto-de-market-place-para-los-comercios-de-denia-recibe-una-subvencion-de-la-camara-de-comercio",
-        "https://noticiasmarinaalta.es/canfali/articulo/nace-dnia-marketplace-un-medio-alternativo-de-venta-al-comercio-tradicional/",
-        "https://www.denia.com/el-proyecto-denia-marketplace-de-apoyo-al-comercio-local-obtiene-una-subvencion-de-36-300-e-de-los-fondos-feder/"
-      ]
-    },
-    {
+          "http://deniadigital.es/art/13217/el-proyecto-de-market-place-para-los-comercios-de-denia-recibe-una-subvencion-de-la-camara-de-comercio",
+          "https://noticiasmarinaalta.es/canfali/articulo/nace-dnia-marketplace-un-medio-alternativo-de-venta-al-comercio-tradicional/",
+          "https://www.denia.com/el-proyecto-denia-marketplace-de-apoyo-al-comercio-local-obtiene-una-subvencion-de-36-300-e-de-los-fondos-feder/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Compralia",
       "url": "compralia.net",
       "location": "Valladolid",
-      "promoter": "Zona Centro de Valladolid + Junta de Castilla y León",
+      "promoter": "Zona Centro de Valladolid + Junta de Castilla y Le\u00f3n",
       "release_date": "",
-      "status": "En línea",
+      "status": "En l\u00ednea",
       "technology": "Prestashop",
       "budget": "",
       "references": [
-        "https://www.za49.es/texto-diario/mostrar/3299164/nace-compralianet-nueva-plataforma-ventas-19-establecimientos-comerciales-siete-municipios-vallisoletanos",
-        "https://tribunavalladolid.com/noticias/compralia-dot-net-el-nuevo-espacio-de-compra-online-local-con-7-municipios-vallisoletanos/1636540232"
-      ]
-    },
-    {
+          "https://www.za49.es/texto-diario/mostrar/3299164/nace-compralianet-nueva-plataforma-ventas-19-establecimientos-comerciales-siete-municipios-vallisoletanos",
+          "https://tribunavalladolid.com/noticias/compralia-dot-net-el-nuevo-espacio-de-compra-online-local-con-7-municipios-vallisoletanos/1636540232"
+      ],
+      "re_released": false
+  },
+  {
       "name": "",
       "url": "",
-      "location": "Ponferrada (León)",
-      "promoter": "Asociación de Comerciantes Templarium + Ayuntamiento de Ponferrada + Junta de Castilla y León",
-      "release_date": "Pendiente",
+      "location": "Ponferrada (Le\u00f3n)",
+      "promoter": "Asociaci\u00f3n de Comerciantes Templarium + Ayuntamiento de Ponferrada + Junta de Castilla y Le\u00f3n",
+      "release_date": "",
       "status": "Anunciado",
       "technology": "",
       "budget": "27.000 euros",
       "references": [
-        "https://www.infobierzo.com/ponferrada-templarium-apuesta-por-la-digitalizacion-y-el-comercio-online-para-crear-un-marketplace/637450/"
-      ]
-    },
-    {
+          "https://www.infobierzo.com/ponferrada-templarium-apuesta-por-la-digitalizacion-y-el-comercio-online-para-crear-un-marketplace/637450/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Compras San Pedro",
       "url": "comprasanpedro.es/ofertas/",
       "location": "San Pedro del Pinatar (Murcia)",
       "promoter": "Ayuntamiento de San Pedro del Pinatar",
-      "release_date": "abril de 2020",
-      "status": "En línea",
+      "release_date": "202004",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "20.000 euros",
       "references": [
-        "https://www.sanpedrodelpinatar.es/comercio/el-ayuntamiento-crea-una-plataforma-de-compra-y-venta-online-para-el-comercio-local-e-impulsa-su-digitalizacion/"
-      ]
-    },
-    {
+          "https://www.sanpedrodelpinatar.es/comercio/el-ayuntamiento-crea-una-plataforma-de-compra-y-venta-online-para-el-comercio-local-e-impulsa-su-digitalizacion/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Comercio Local Olivenza",
       "url": "comerciolocalolivenza.com",
       "location": "Olivenza (Badajoz)",
-      "promoter": "Ayuntamiento de Olvenza + Diputación de Badajoz",
-      "release_date": "noviembre de 2021",
-      "status": "En línea",
+      "promoter": "Ayuntamiento de Olvenza + Diputaci\u00f3n de Badajoz",
+      "release_date": "202111",
+      "status": "En l\u00ednea",
       "technology": "WordPress",
       "budget": "",
       "references": [
-        "http://www.ayuntamientodeolivenza.com/olivenza-ya-dispone-de-un-marketplace-para-realizar-compras-en-el-comercio-local-de-manera-on-line/"
-      ]
-    },
-    {
+          "http://www.ayuntamientodeolivenza.com/olivenza-ya-dispone-de-un-marketplace-para-realizar-compras-en-el-comercio-local-de-manera-on-line/"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Cieza Comercia",
       "url": "ciezacomercia.es",
       "location": "Cieza (Murcia)",
-      "promoter": "Ayuntamiento de Cieza + Asociación de Comercio de Cieza",
-      "release_date": "junio de 2020",
-      "status": "En línea",
+      "promoter": "Ayuntamiento de Cieza + Asociaci\u00f3n de Comercio de Cieza",
+      "release_date": "202006",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://www.murcia.com/cieza/noticias/2020/06/04-una-plataforma-une-a-los-comercios-ciezanos-para-la-venta-online-de-sus-productos.asp"
-      ]
-    },
-    {
-      "name": "Cehegín Comercial",
+          "https://www.murcia.com/cieza/noticias/2020/06/04-una-plataforma-une-a-los-comercios-ciezanos-para-la-venta-online-de-sus-productos.asp"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Ceheg\u00edn Comercial",
       "url": "cehegincomercial.com",
-      "location": "Cehegín (Murcia)",
-      "promoter": "Ayuntamiento de Cehegín + Región de Murcia",
-      "release_date": "febrero de 2021",
-      "status": "En línea",
+      "location": "Ceheg\u00edn (Murcia)",
+      "promoter": "Ayuntamiento de Ceheg\u00edn + Regi\u00f3n de Murcia",
+      "release_date": "202102",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://www.laopiniondemurcia.es/municipios/2021/02/03/ayuntamiento-pone-marcha-plataforma-compras-34172958.html"
-      ]
-    },
-    {
-      "name": "Muác Murcia",
+          "https://www.laopiniondemurcia.es/municipios/2021/02/03/ayuntamiento-pone-marcha-plataforma-compras-34172958.html"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "Mu\u00e1c Murcia",
       "url": "muacmurcia.com",
       "location": "Murcia",
-      "promoter": "Ayuntamiento de Murcia + Federación Murcia Área Comercial",
-      "release_date": "diciembre de 2020",
-      "status": "En línea",
+      "promoter": "Ayuntamiento de Murcia + Federaci\u00f3n Murcia \u00c1rea Comercial",
+      "release_date": "202012",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://www.laverdad.es/murcia/ciudad-murcia/comercios-apuntan-lanzamiento-20201226000822-ntvo.html"
-      ]
-    },
-    {
+          "https://www.laverdad.es/murcia/ciudad-murcia/comercios-apuntan-lanzamiento-20201226000822-ntvo.html"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Comercio Calasparra",
       "url": "comerciocalasparra.es",
       "location": "Calasparra (Murcia)",
-      "promoter": "Ayuntamiento de Calasparra + Asociación de Comerciantes",
-      "release_date": "abril de 2021",
-      "status": "En línea",
+      "promoter": "Ayuntamiento de Calasparra + Asociaci\u00f3n de Comerciantes",
+      "release_date": "202104",
+      "status": "En l\u00ednea",
       "technology": "WooCommerce",
       "budget": "",
       "references": [
-        "https://www.murcia.com/calasparra/noticias/2021/04/27-calasparra-apuesta-por-el-comercio-local-con-una-nueva-plataforma-web-de-compra-venta-online.asp"
-      ]
-    },
-    {
+          "https://www.murcia.com/calasparra/noticias/2021/04/27-calasparra-apuesta-por-el-comercio-local-con-una-nueva-plataforma-web-de-compra-venta-online.asp"
+      ],
+      "re_released": false
+  },
+  {
       "name": "Ayuntamiento de Almussafes",
       "url": "latendaalmussafes.com",
       "location": "Almussafes (Valencia)",
-      "promoter": "Ayuntamiento de Almussafes + Asociación de Empresarios y Comerciantes de Almussafes",
-      "release_date": "septiembre de 2021",
-      "status": "En línea",
+      "promoter": "Ayuntamiento de Almussafes + Asociaci\u00f3n de Empresarios y Comerciantes de Almussafes",
+      "release_date": "202109",
+      "status": "En l\u00ednea",
       "technology": "",
       "budget": "61.721 euros (el marketplace y otras actuaciones)",
       "references": [
-        "https://www.elperiodic.com/almussafes/almussafes-crea-plataforma-comercial-venta-online_771601",
-        "https://www.levante-emv.com/ribera/2021/10/28/ayuntamiento-almussafes-abre-tienda-online-58905577.html"
-      ]
-    },
-    {
-      "name": "ComproAquí",
+          "https://www.elperiodic.com/almussafes/almussafes-crea-plataforma-comercial-venta-online_771601",
+          "https://www.levante-emv.com/ribera/2021/10/28/ayuntamiento-almussafes-abre-tienda-online-58905577.html"
+      ],
+      "re_released": false
+  },
+  {
+      "name": "ComproAqu\u00ed",
       "url": "comproaqui.es",
-      "location": "Fernán Núñez (Córdoba)",
-      "promoter": "Ayuntamiento de Fernán Núñez + Asociación de Empresarios y Autónomos",
-      "release_date": "mayo de 2020",
-      "status": "En línea",
+      "location": "Fern\u00e1n N\u00fa\u00f1ez (C\u00f3rdoba)",
+      "promoter": "Ayuntamiento de Fern\u00e1n N\u00fa\u00f1ez + Asociaci\u00f3n de Empresarios y Aut\u00f3nomos",
+      "release_date": "202005",
+      "status": "En l\u00ednea",
       "technology": "",
       "budget": "18.000 euros",
       "references": [
-        "https://fernannunez.es/plataforma-comercio-online-fernan-nunez/"
-      ]
-    }
-  ]
+          "https://fernannunez.es/plataforma-comercio-online-fernan-nunez/"
+      ],
+      "re_released": false
+  }
+]
